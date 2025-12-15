@@ -10,20 +10,25 @@ CHARACTER CONSISTENCY RULES (CRITICAL):
 - SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
 
 
-Create a modern 2D cartoon illustration with cel-shading showing THE TRANSFORMATION moment.
-**SPLIT IMAGE TRANSFORMATION**: Show BEFORE and AFTER side by side:
-- **LEFT SIDE**: Bald man Corey slumped, sad, shoulders down, in navy apron
-- **RIGHT SIDE**: Same bald man standing tall, confident, huge smile, transformed
-**FAMILY WATCHING**: All four family members watching proudly:
-- **EMILY**: Silver pixie hair woman with warm smile
-- **REMI**: Brown-haired boy in blue shirt, excited
-- **OONA**: Blonde girl in blue shirt, clapping
-- **ZEPHYR**: Smallest brown-haired girl in blue shirt, jumping
-**TRANSFORMATION EFFECTS**:
-- Golden warm light radiating from transformed Corey on right side
-- Ghostly sad version fading away on left side
-- Lightbulb glowing above his head showing the "switch ON" moment
-- Warm golden background emphasizing the moment of realization
+Create a modern 2D cartoon illustration with cel-shading showing JOYFUL CHAOS - the tackle-hug moment.
+**CENTRAL ACTION**: Bald man Corey with arms spread wide in triumphant pose, huge grin, wearing navy apron, being simultaneously tackle-hugged by all three kids:
+- **REMI**: Brown-haired boy grabbing from the left side
+- **OONA**: Blonde girl jumping from the right side  
+- **ZEPHYR**: Smallest brown-haired girl climbing up the front
+- All three kids wearing blue shirts with red diamond Super3 logo
+**CAREER SYMBOLS FLOATING**: Around the tackle-hug scene, show floating career symbols representing possibilities:
+- Astronaut helmet floating nearby
+- Guitar with musical notes
+- Captain's hat 
+- Judge's gavel
+- LEGO bricks scattered around
+- Other career symbols from the series
+**ENERGY AND MOTION**: 
+- Motion lines showing the impact of the tackle-hug
+- Joyful chaos with maximum energy
+- All four people (Corey + 3 kids) in dynamic, overlapping poses
+- Bright, warm colors emphasizing celebration
+**OVERALL MOOD**: Pure joy, family connection, celebration of transformation, maximum energy and movement.
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
-**Art Style**: Modern 2D cartoon style with cel-shading with dramatic lighting effects. Use bright, vibrant colors for the transformed Corey and his family, while the ghostly past versions fade in muted tones. The light beam should be brilliant and hopeful, representing renewed life and confidence.
+**Art Style**: Modern 2D cartoon style with cel-shading with the brightest, most hopeful colors of the entire series. The career possibilities should swirl like stars and planets, and the lighting should suggest the dawn of a new chapter. Maximum joy and possibility.

@@ -1,4 +1,4 @@
-# Page 41 - The Chef at the Store
+# Page 41 - REALIZATION + TRANSFORMATION
 
 ## CHARACTER DESCRIPTIONS
 
@@ -33,6 +33,8 @@
 But you get the whole point—the future was CLEAR!)
 He looked at his family—his team and his crew.
 At Emily's smile. At the Super Three too.
+And something inside him switched ON like a light!
+His shoulders un-slumped! And his frown became BRIGHT!
 
 ## IMAGE PROMPT
 
@@ -48,9 +50,17 @@ At Emily's smile. At the Super Three too.
 
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
-Create a modern 2D cartoon illustration with cel-shading showing a warm PAUSE after the career chaos - a return to what really matters.
+Create a modern 2D cartoon illustration with cel-shading showing THE TRANSFORMATION moment - Corey's realization and internal change.
 
-**MAIN FOCUS**: COREY (bald!) looking at his family with new eyes, tears of JOY forming as he has an emotional realization. He should be turning away from all the career possibilities to focus completely on his family.
+**SPLIT IMAGE TRANSFORMATION**: Show BEFORE and AFTER side by side:
+- **LEFT SIDE**: Bald man Corey slumped, sad, shoulders down, in navy apron
+- **RIGHT SIDE**: Same bald man standing tall, confident, huge smile, transformed
+
+**TRANSFORMATION EFFECTS**:
+- Golden warm light radiating from transformed Corey on right side
+- Ghostly sad version fading away on left side
+- Lightbulb glowing above his head showing the "switch ON" moment
+- Warm golden background emphasizing the moment of realization
 
 **THE FAMILY UNIT**: All five together in a warm, loving composition:
 - **EMILY** (short silver/gray pixie hair) with the light catching her hair, showing a knowing smile, her hand gently placed on Corey (completely bald)'s arm

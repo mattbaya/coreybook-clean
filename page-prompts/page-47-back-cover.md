@@ -1,4 +1,4 @@
-# Page 48 - BACK COVER
+# Page 47 - BACK COVER
 
 ## BACK COVER CONTENT
 

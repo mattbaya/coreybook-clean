@@ -1,10 +1,10 @@
-# Page 43 - DECLARATION + TACKLE
+# Page 43 - FULL FAMILY EMBRACE
 
 ## PAGE TEXT
-"You're RIGHT!" Corey shouted. "This ISN'T the end!
-The future's unwritten! The future is MINE!"
-The Super Three cheered and they gave him a hug—
-Or more like a TACKLE, like three little bugs!
+And Emily joined in and whispered, "You know,
+Whatever comes next, we'll be RIGHT here."
+For Corey had something no setback could break:
+A family who loved him for EVERYONE'S sake.
 
 ## IMAGE PROMPT
 
@@ -20,29 +20,26 @@ Or more like a TACKLE, like three little bugs!
 
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
-Create a modern 2D cartoon illustration with cel-shading showing JOYFUL CHAOS - the tackle-hug moment.
+Create a modern 2D cartoon illustration with cel-shading showing WARM FAMILY GROUP HUG - the emotional climax.
 
-**CENTRAL ACTION**: Bald man Corey with arms spread wide in triumphant pose, huge grin, wearing navy apron, being simultaneously tackle-hugged by all three kids:
-- **REMI**: Brown-haired boy grabbing from the left side
-- **OONA**: Blonde girl jumping from the right side  
-- **ZEPHYR**: Smallest brown-haired girl climbing up the front
-- All three kids wearing blue shirts with red diamond Super3 logo
+**THE EMBRACE**: All five family members in a tight, warm group hug with everyone wrapped around each other:
 
-**CAREER SYMBOLS FLOATING**: Around the tackle-hug scene, show floating career symbols representing possibilities:
-- Astronaut helmet floating nearby
-- Guitar with musical notes
-- Captain's hat 
-- Judge's gavel
-- LEGO bricks scattered around
-- Other career symbols from the series
+**CENTRAL FIGURE**: Bald man Corey in the center with tears of joy, navy apron, wearing the biggest smile of the series
 
-**ENERGY AND MOTION**: 
-- Motion lines showing the impact of the tackle-hug
-- Joyful chaos with maximum energy
-- All four people (Corey + 3 kids) in dynamic, overlapping poses
-- Bright, warm colors emphasizing celebration
+**EMILY**: Silver pixie hair woman pressed close to Corey, one hand gently touching his face, eyes closed contentedly, whispering comfort
 
-**OVERALL MOOD**: Pure joy, family connection, celebration of transformation, maximum energy and movement.
+**THE THREE KIDS**: All wrapped around their parents in blue shirts:
+- **REMI**: Brown-haired boy hugging from one side
+- **OONA**: Blonde girl squeezing in from the other side  
+- **ZEPHYR**: Smallest brown-haired girl pressed against the front
+
+**EMOTIONAL ATMOSPHERE**:
+- Golden light radiating outward from the family group
+- Small floating hearts drifting upward around them
+- Warmest possible colors - golds, soft oranges, gentle pinks
+- Everyone's eyes showing pure contentment and love
+
+**THE FEELING**: This is the emotional climax - pure love, family connection, unbreakable bonds, complete security and acceptance.
 
 
 
@@ -52,4 +49,4 @@ Create a modern 2D cartoon illustration with cel-shading showing JOYFUL CHAOS - 
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading with the brightest, most hopeful colors of the entire series. The career possibilities should swirl like stars and planets, and the lighting should suggest the dawn of a new chapter. Maximum joy and possibility.
+**Art Style**: Modern 2D cartoon style with cel-shading with bold, dynamic movement lines showing the impact and chaos of the tackle-hug. Bright, celebratory colors emphasizing joy and family connection. The composition should feel energetic and slightly off-balance in the best possible way.
