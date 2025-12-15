@@ -10,15 +10,20 @@ CHARACTER CONSISTENCY RULES (CRITICAL):
 - SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
 
 
-Create a modern 2D cartoon illustration with cel-shading showing THE TACKLE-HUG - a gloriously chaotic family pile-on.
-**THE CHAOS**: The Super Three have LAUNCHED themselves at Corey in what's less of a hug and more of a loving tackle! Show arms and legs everywhere in wonderful confusion. One of the kids' blue Super3 t-shirts should be visible upside-down in the chaos.
-**EACH KID'S APPROACH**:
-- **Remi with dark brown straight hair) grabbed on tight with a fierce, proud grin
-- **OONA** (long honey blonde hair) jumped on with her hair flying, laughing with pure joy
-- **ZEPHYR** (light brown messy hair) climbing her dad like a tree, probably shouting with excitement
-**COREY'S REACTION**: COREY (bald!) laughing out loud with the biggest, most genuine joy - "what a glorious sight!" He should be staggering slightly from the impact but wrapping his arms around all of them, completely delighted by this loving assault.
-**THE FEELING**: This is pure joy, pure chaos, pure family love. The kids are celebrating his transformation and newfound confidence with an explosion of physical affection. It should feel like the most natural, wonderful response to a parent figuring out that everything is going to be okay.
-**VISUAL ENERGY**: Maximum movement and joy - hair flying, shirts twisted, arms everywhere, huge smiles, complete loving mayhem.
+Create a modern 2D cartoon illustration with cel-shading showing WARM FAMILY GROUP HUG - the emotional climax.
+**THE EMBRACE**: All five family members in a tight, warm group hug with everyone wrapped around each other:
+**CENTRAL FIGURE**: Bald man Corey in the center with tears of joy, navy apron, wearing the biggest smile of the series
+**EMILY**: Silver pixie hair woman pressed close to Corey, one hand gently touching his face, eyes closed contentedly, whispering comfort
+**THE THREE KIDS**: All wrapped around their parents in blue shirts:
+- **REMI**: Brown-haired boy hugging from one side
+- **OONA**: Blonde girl squeezing in from the other side  
+- **ZEPHYR**: Smallest brown-haired girl pressed against the front
+**EMOTIONAL ATMOSPHERE**:
+- Golden light radiating outward from the family group
+- Small floating hearts drifting upward around them
+- Warmest possible colors - golds, soft oranges, gentle pinks
+- Everyone's eyes showing pure contentment and love
+**THE FEELING**: This is the emotional climax - pure love, family connection, unbreakable bonds, complete security and acceptance.
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 **Art Style**: Modern 2D cartoon style with cel-shading with bold, dynamic movement lines showing the impact and chaos of the tackle-hug. Bright, celebratory colors emphasizing joy and family connection. The composition should feel energetic and slightly off-balance in the best possible way.

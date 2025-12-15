@@ -10,21 +10,20 @@ CHARACTER CONSISTENCY RULES (CRITICAL):
 - SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
 
 
-Create a modern 2D cartoon illustration with cel-shading showing THE TRANSFORMATION - Corey's dramatic internal and external change.
-**THE TRANSFORMATION SEQUENCE**: Show Corey's change in a dynamic BEFORE → DURING → AFTER progression:
-- **BEFORE**: Shoulders SLUMPED, spine curved, defeated posture
-- **DURING**: Shoulders LIFTING, spine beginning to straighten
-- **AFTER**: FULLY UPRIGHT AND STRONG, confident and powerful
-**THE INTERNAL CHANGE**: Inside Corey, show a Seussian-style lightbulb/heart that SWITCHES ON with a bright beam of light emanating from his chest. This represents the moment his hope and confidence return.
-**FACIAL TRANSFORMATION**: His frown should curve into a huge, genuine grin - the biggest, most authentic smile we've seen from him in the entire series.
-**GHOSTLY PAST**: Show transparent, sad COREYS from Book 1 (the defeated chef) FADING AWAY as the vibrant, confident new Corey emerges in full, brilliant color.
-**FAMILY CELEBRATION**: His family cheers around him:
-- **EMILY** (short silver hair) watching with proud joy
-- **THE SUPER THREE** (blue Super3 shirts) all celebrating:
-  - **REMI** cheering enthusiastically
-  - **OONA** clapping and bouncing
-  - **ZEPHYR** jumping with pure excitement
-The scene should feel like a phoenix rising - the death of old, defeated Corey and the birth of empowered, possibility-filled Corey.
+Create a modern 2D cartoon illustration with cel-shading showing THE TRANSFORMATION moment.
+**SPLIT IMAGE TRANSFORMATION**: Show BEFORE and AFTER side by side:
+- **LEFT SIDE**: Bald man Corey slumped, sad, shoulders down, in navy apron
+- **RIGHT SIDE**: Same bald man standing tall, confident, huge smile, transformed
+**FAMILY WATCHING**: All four family members watching proudly:
+- **EMILY**: Silver pixie hair woman with warm smile
+- **REMI**: Brown-haired boy in blue shirt, excited
+- **OONA**: Blonde girl in blue shirt, clapping
+- **ZEPHYR**: Smallest brown-haired girl in blue shirt, jumping
+**TRANSFORMATION EFFECTS**:
+- Golden warm light radiating from transformed Corey on right side
+- Ghostly sad version fading away on left side
+- Lightbulb glowing above his head showing the "switch ON" moment
+- Warm golden background emphasizing the moment of realization
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 **Art Style**: Modern 2D cartoon style with cel-shading with dramatic lighting effects. Use bright, vibrant colors for the transformed Corey and his family, while the ghostly past versions fade in muted tones. The light beam should be brilliant and hopeful, representing renewed life and confidence.

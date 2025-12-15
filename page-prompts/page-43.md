@@ -1,51 +1,15 @@
-# Page 43 - The Chef at the Store
-
-## CHARACTER DESCRIPTIONS
-
-### COREY (TRIUMPHANT AND TRANSFORMED)
-- **Physical**: Completely BALD head (no hair), face turned upward toward bright sky
-- **Posture**: Arms spread wide, confident and powerful stance
-- **Clothing**: Regular clothes (not chef's apron), ready for anything
-- **Expression**: Radiating confidence, biggest genuine smile
-- **Energy**: Vibrant, hopeful, fully transformed from defeated chef to empowered dreamer
-
-### FAMILY (PROUD SUPPORTERS)
-- **Position**: Watching PROUDLY below Corey's triumphant moment
-- **EMILY**: SHORT SILVER/GRAY PIXIE-CUT HAIR, beaming with pride
-- **SUPER THREE**: All in blue T-shirts with SUPER3 logo (reference: images/super3v3.png) (reference: images/super3v3.png) (red red diamond shield with yellow '3' with yellow "3")
-- **REMI**: Dark brown straight hair, standing proudly
-- **OONA**: Long honey blonde hair, clapping enthusiastically
-- **ZEPHYR**: Light brown messy hair, jumping with joy
-
-### CAREER CONSTELLATION
-- **Formation**: All different CAREER COREYS orbiting around him like planets/stars
-- **Astronaut Corey**: In spacesuit floating in the constellation
-- **Punk Rocker Corey**: With guitar (subtle "Big Dog" reference)
-- **Sea Captain Corey**: In naval uniform
-- **Crypto Mogul Corey**: With digital currency symbols
-- **LEGO Engineer Corey**: Building with blocks
-- **Actor Corey**: With various costumes
-- **Lawyer Corey**: In sharp suit
-- **Gamer Corey**: With controller
-- **Chef Corey**: Still included - he might cook again!
-- **Plus All Others**: From the entire series
-
-### ENVIRONMENT AND MOOD
-- **Sky**: Bright, limitless horizon
-- **Text**: "THE FUTURE IS MINE!" prominently displayed in bold, hopeful letters
-- **Atmosphere**: LIMITLESS possibilities, infinite potential
-- **Lighting**: Brilliant, hopeful lighting suggesting dawn of new chapter
+# Page 43 - DECLARATION + TACKLE
 
 ## PAGE TEXT
 "You're RIGHT!" Corey shouted. "This ISN'T the end!
-It's just a new corner! A twist! And a BEND!
-I don't know what's next—and that's PERFECTLY fine!
 The future's unwritten! The future is MINE!"
+The Super Three cheered and they gave him a hug—
+Or more like a TACKLE, like three little bugs!
 
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
-- COREY: Completely BALD adult male (no hair), round face, dark olive-green apron, white shirt
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
 - OONA: 11-year-old CAUCASIAN WHITE girl, long honey blonde hair, blue Super3 shirt  
@@ -56,30 +20,29 @@ The future's unwritten! The future is MINE!"
 
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
-Create a modern 2D cartoon illustration with cel-shading showing COREY TRIUMPHANT - the climactic moment of empowerment and hope.
+Create a modern 2D cartoon illustration with cel-shading showing JOYFUL CHAOS - the tackle-hug moment.
 
-**CENTRAL FIGURE**: COREY (bald!) with arms spread wide, face turned upward toward a bright sky, radiating absolute confidence. He's no longer in his chef's apron but in regular clothes, symbolizing he's ready for ANYTHING. His expression should show the biggest, most genuine smile of the entire series.
+**CENTRAL ACTION**: Bald man Corey with arms spread wide in triumphant pose, huge grin, wearing navy apron, being simultaneously tackle-hugged by all three kids:
+- **REMI**: Brown-haired boy grabbing from the left side
+- **OONA**: Blonde girl jumping from the right side  
+- **ZEPHYR**: Smallest brown-haired girl climbing up the front
+- All three kids wearing blue shirts with red diamond Super3 logo
 
-**THE CAREER CONSTELLATION**: Swirling around him like a galaxy of futures, show ghostly/translucent versions of ALL THE DIFFERENT CAREER COREYS in constellation formation:
-- Astronaut Corey floating in spacesuit
-- Punk rocker with guitar (include subtle "Big Dog" reference)
-- Sea captain in naval uniform  
-- Crypto mogul with digital symbols
-- LEGO engineer building
-- Actor in various costumes
-- Politician with campaign materials
-- Lawyer in sharp suit
-- Journalist with notepad
-- Podcaster with microphone
-- Gamer with controller
-- Chef Corey (still included - he might cook again!)
-- Plus hints of ALL the others from Books 3 and 4
+**CAREER SYMBOLS FLOATING**: Around the tackle-hug scene, show floating career symbols representing possibilities:
+- Astronaut helmet floating nearby
+- Guitar with musical notes
+- Captain's hat 
+- Judge's gavel
+- LEGO bricks scattered around
+- Other career symbols from the series
 
-**FAMILY BELOW**: His family watches PROUDLY - Emily (short silver hair) beaming, and the Super Three (blue shirts) celebrating this moment of transformation.
+**ENERGY AND MOTION**: 
+- Motion lines showing the impact of the tackle-hug
+- Joyful chaos with maximum energy
+- All four people (Corey + 3 kids) in dynamic, overlapping poses
+- Bright, warm colors emphasizing celebration
 
-**TEXT TREATMENT**: "THE FUTURE IS MINE!" should be prominently displayed in bold, hopeful letters.
-
-**OVERALL MOOD**: LIMITLESS potential, infinite possibility, the joy of not knowing what comes next but being excited about it.
+**OVERALL MOOD**: Pure joy, family connection, celebration of transformation, maximum energy and movement.
 
 
 
