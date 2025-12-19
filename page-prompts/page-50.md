@@ -1,14 +1,37 @@
 # Page 50 - The Chef at the Store
 
 ## PAGE TEXT
-And YOU, reading this, if YOUR store ever closes,
-If life throws you lemons (or worse—wilted roses),
-If roundabouts ruin your road into town,
-If bad water comes and your dreams start to drown...
+The Store stood behind them, still lovely and old,
+With three years of memories, worth more than gold.
+And though they were leaving, they'd never forget
+The place where their story began—not yet.
 
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -20,33 +43,34 @@ If bad water comes and your dreams start to drown...
 
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
-Create a modern 2D cartoon illustration with cel-shading BREAKING THE FOURTH WALL - directly addressing the reader with empathy and understanding.
+Create a modern 2D cartoon illustration with cel-shading showing the family looking back at the Store with fond memories.
 
-**THE FAMILY (addressing reader):**
-- All looking directly at the reader with compassionate expressions
-- COREY (completely bald) with understanding, empathetic eyes
-- EMILY with warm, supportive smile
-- Children showing genuine care for the reader
-- Reaching out toward the viewer as if to comfort
+**THE FAMILY (foreground):**
+- Standing together on the road, turned to look back
+- Expressions of gratitude and fond remembrance
+- COREY (completely bald) with emotional smile
+- EMILY with warm, reflective expression
+- Children showing appreciation for their memories
 
-**SYMBOLIC ELEMENTS:**
-- Storm clouds in background representing adversity
-- Wilted roses scattered on the ground
-- A cracked or broken road (roundabout damage)
-- Muddy water puddles (E.coli reference)
-- These challenges surround the family but don't overwhelm them
+**THE STORE (prominent background):**
+- The Store at Five Corners looking beautiful and restored
+- Cream building with 4 white columns clearly visible
+- "The Store at Five Corners" sign bright and welcoming
+- Golden late afternoon light on the building
+- Represents the successful chapter of their lives
 
-**MESSAGE OF UNDERSTANDING:**
-- The family has been through these struggles too
-- They're not preaching from privilege, but from experience
-- Visual elements that show they understand real hardship
-- Lemons scattered around that haven't been made into lemonade yet
+**MEMORY ELEMENTS:**
+- Subtle ghostly/translucent images floating around the Store:
+  - Corey cooking in the kitchen
+  - Customers enjoying meals
+  - Happy moments from their time there
+- These should be soft and dreamlike, not overpowering
 
-**BREAKING THE FOURTH WALL:**
-- Characters making direct eye contact with reader
-- Gestures of invitation and support
-- "We see you, we've been there" energy
-- Bridge between story world and reader's reality
+**ATMOSPHERE:**
+- Bittersweet but hopeful
+- Golden hour lighting
+- Sense of closure and gratitude
+- Looking back with love, not regret
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 

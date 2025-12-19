@@ -22,13 +22,36 @@
 - **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-At the three little faces so hopeful and bright...
-And something inside him switched ON like a light!
-His shoulders un-slumped! And his spine became straight!
-His frown became grin! And his good became GREAT!
+(Okay, maybe not goo. That was Zephyr's idea.
+But you get the whole point—the future was CLEAR!)
+He looked at his family—his team and his crew.
+At Emily's smile. At the Super Three too.
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -41,23 +64,28 @@ His frown became grin! And his good became GREAT!
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing WARM FAMILY GROUP HUG - the emotional climax.
-**THE EMBRACE**: All five family members in a tight, warm group hug with everyone wrapped around each other:
-**CENTRAL FIGURE**: Bald man Corey in the center with tears of joy, navy apron, wearing the biggest smile of the series
-**EMILY**: Silver pixie hair woman pressed close to Corey, one hand gently touching his face, eyes closed contentedly, whispering comfort
-**THE THREE KIDS**: All wrapped around their parents in blue shirts:
-- **REMI**: Brown-haired boy hugging from one side
-- **OONA**: Blonde girl squeezing in from the other side  
-- **ZEPHYR**: Smallest brown-haired girl pressed against the front
-**EMOTIONAL ATMOSPHERE**:
-- Golden light radiating outward from the family group
-- Small floating hearts drifting upward around them
-- Warmest possible colors - golds, soft oranges, gentle pinks
-- Everyone's eyes showing pure contentment and love
-**THE FEELING**: This is the emotional climax - pure love, family connection, unbreakable bonds, complete security and acceptance.
+Create a modern 2D cartoon illustration with cel-shading showing JOYFUL CHAOS - the tackle-hug moment.
+**CENTRAL ACTION**: Bald man Corey with arms spread wide in triumphant pose, huge grin, wearing navy apron, being simultaneously tackle-hugged by all three kids:
+- **REMI**: Brown-haired boy grabbing from the left side
+- **OONA**: Blonde girl jumping from the right side  
+- **ZEPHYR**: Smallest brown-haired girl climbing up the front
+- All three kids wearing blue shirts with red diamond Super3 logo
+**CAREER SYMBOLS FLOATING**: Around the tackle-hug scene, show floating career symbols representing possibilities:
+- Astronaut helmet floating nearby
+- Guitar with musical notes
+- Captain's hat 
+- Judge's gavel
+- LEGO bricks scattered around
+- Other career symbols from the series
+**ENERGY AND MOTION**: 
+- Motion lines showing the impact of the tackle-hug
+- Joyful chaos with maximum energy
+- All four people (Corey + 3 kids) in dynamic, overlapping poses
+- Bright, warm colors emphasizing celebration
+**OVERALL MOOD**: Pure joy, family connection, celebration of transformation, maximum energy and movement.
 
 
- with bold, dynamic movement lines showing the impact and chaos of the tackle-hug. Bright, celebratory colors emphasizing joy and family connection. The composition should feel energetic and slightly off-balance in the best possible way.
+ with the brightest, most hopeful colors of the entire series. The career possibilities should swirl like stars and planets, and the lighting should suggest the dawn of a new chapter. Maximum joy and possibility.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 

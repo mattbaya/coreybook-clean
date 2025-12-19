@@ -22,14 +22,36 @@
 - **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"You could start a PODCAST! Everyone's got one!
-Interview your CAT about what cats have done!"
-
-"Or be a TIKTOK STAR doing dances all day!
-Get sponsorships for spatulas! Make those brands pay!"
+"You could be a LAWYER to help those in need!
+Save chefs from bad leases and nonprofit greed!
+Start a class action against mega-corps,
+And put ESQUIRE after your name—fancy, of course!"
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -42,14 +64,19 @@ Get sponsorships for spatulas! Make those brands pay!"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing TWO PANELS of modern media careers:
-**TOP PANEL - PODCASTER**: COREY (bald!) in a professional recording studio wearing big headphones, sitting across from an ACTUAL CAT at matching microphones. The cat should look completely bored and unimpressed (as cats always do). Show the podcast title "CONVERSATIONS WITH WHISKERS" and a download counter reading "10 MILLION LISTENERS." Include visible sound waves emanating from the mics to show they're recording.
-**BOTTOM PANEL - TIKTOK STAR**: COREY attempting a silly viral dance with a phone propped up to record him. He should look confused by the dance moves but fully committed to the performance. Surround him with flying SPATULAS and cooking equipment representing his sponsorship deals. Include floating hearts and likes, plus a "VIRAL!" stamp indicator. The scene should capture the absurdity of social media fame.
-Both panels should show Corey embracing modern digital media with his characteristic enthusiasm, even when the concepts are slightly outside his comfort zone (especially trying to interview an uninterested cat and learning viral dances).
-The contrast between serious podcast production and silly TikTok content should be humorous, showing the range of modern content creation opportunities.
+Create a modern 2D cartoon illustration with cel-shading showing Corey's lawyer fantasy in a dramatic courtroom setting.
+The main focus is LAWYER COREY (bald!) in a sharp suit, pointing dramatically at the defendant's table where EVIL CORPORATE EXECUTIVES cower. These villains should look cartoonish with money bag heads and suits made of dollar bills, representing mega-corporation greed.
+Behind Corey: a line of GRATEFUL CLIENTS - chefs in aprons and small business owners looking relieved and thankful for his legal representation.
+Key courtroom elements:
+- Judge's nameplate reading "JUSTICE"
+- Legal books on Corey's table: "FIGHTING THE POWER" and "LEASES FOR DUMMIES"
+- A prominent business card: "COREY WENTWORTH, ESQ." in fancy script lettering
+- A scoreboard showing "LITTLE GUYS: 47 / MEGA CORPS: 0"
+The best detail: OONA (long honey blonde hair, blue Super3 t-shirt) wearing a tiny judge's wig and robes, seriously banging an oversized gavel from the judge's bench, fully committed to her role in this fantasy.
+The scene should capture the David vs. Goliath energy of a small-town lawyer taking on corporate power and winning. Corey looks confident and principled, fighting for justice with the backing of the community.
 
 
- with bold, dynamic lines. Top panel in professional podcast blues/grays, bottom panel in bright TikTok-style neon colors with lots of movement and digital effects like hearts and likes floating around.
+ with dramatic courtroom lighting, bold contrast between the good guys (warm colors) and corporate villains (cold money-greens), and exaggerated expressions emphasizing the moral victory theme.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 

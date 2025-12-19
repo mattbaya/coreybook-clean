@@ -22,13 +22,36 @@
 - **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-Then the road crews arrived with their cones and their trucks,
-And they dug up the crossroads—oh, what rotten luck!
-"A ROUNDABOUT!" they cried. "It will take a whole year!"
-And the customers vanished. They just... disappeared.
+But the money was tight—oh, so terribly tight!
+He'd count up his pennies by dim kitchen light.
+The electric bill ZOOMED like a bird to the sky,
+And the dollars went OUT faster than they came by.
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt

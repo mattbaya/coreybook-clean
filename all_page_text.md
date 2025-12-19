@@ -45,11 +45,8 @@ And Corey thought, "Life here is perfectly grand!"
 
 Corey checked his phone with growing delight—
 The reviews were coming in day and night!
-Food's FINALLY discovered the review sites awoke,
-'Ridiculously Good!' they wrote.
-'5 stars! Thumbs Up!'
-'Clearly someone who knows what they're doing!'
-wrote another woman or man.
+A place that feels good, that's what they found,
+The warmest reviews spreading around!
 
 ---
 
@@ -60,8 +57,13 @@ wrote another woman or man.
 typed another neighbor with a smile!
 'What a find!'
 The praise for Corey floated everywhere!
-His phone buzzed and ping with each new review,
+His phone buzzed and pinged with each new review,
 And cars overflowed his tiny parking lot too!
+
+---
+
+# Page 7
+
 'Great baked goods!' 'Crispy chicken sandwich!'
 'Worth the stop!' The five-star ratings just wouldn't stop!
 And Corey stood beaming in his kitchen so bright,
@@ -69,7 +71,7 @@ Like bathed in holographic light.
 
 ---
 
-# Page 7
+# Page 8
 
 The tablet glowed bright with review after review,
 Each one more delightful than the last one he knew!
@@ -87,19 +89,25 @@ His coffee, his soups—everything was just fine!
 
 ---
 
-# Page 8
+# Page 9
 
-And hikers and bikers and locals came too,
-There's Duncan, Rosalie, and Cecilia who
-stopped by for lunch and made my whole day shine!
-"This Chef is a wizard!" wrote one in the guest book,
-"His soups are amazing!" and "He sings like a crook!"
-"Your pizza is BEST!" and "Sammies divine!"
-Young Lucas had written, then came back to nap.
+The tablet glowed bright with review after review,
+Each one more delightful than the last one he knew!
+In the center, one comment made Corey's heart sing:
+"Finally someone who KNOWS what they're doing!"
+Around it, more praises came flooding the screen,
+The nicest reviews that he'd ever seen!
+From "Captain of this ship" to "Best croissant in life"—
+He couldn't wait to share this with Emily, his wife!
+"The place is now PACKED!" wrote a forty-year neighbor,
+"Worth every penny!" praised those who would savor
+His crispy fried chicken, his sandwiches divine,
+His coffee, his soups—everything was just fine!
+*QUOTES FROM REAL REVIEWS
 
 ---
 
-# Page 9
+# Page 10
 
 "My favorite café!" and "Such welcoming vibes!"
 "This place lifts my mood!" all the visitors scribe.
@@ -113,7 +121,7 @@ QUOTES FROM REAL JOURNAL ENTRIES:
 
 ---
 
-# Page 10
+# Page 11
 
 But the money was tight—oh, so terribly tight!
 He'd count up his pennies by dim kitchen light.
@@ -122,7 +130,7 @@ And the dollars went OUT faster than they came by.
 
 ---
 
-# Page 11
+# Page 12
 
 Then the road crews arrived with their cones and their trucks,
 And they dug up the crossroads—oh, what rotten luck!
@@ -131,7 +139,7 @@ And the customers vanished. They just... disappeared.
 
 ---
 
-# Page 12
+# Page 13
 
 Still Corey kept cooking through summer and fall.
 But then came October—a dark, dreadful day—
@@ -140,7 +148,7 @@ When the water turned BAD in the worst sort of way!
 
 ---
 
-# Page 13
+# Page 14
 
 He closed for a day. Then he opened once more.
 But in NOVEMBER it happened AGAIN at the Store!
@@ -149,7 +157,7 @@ The customers stopped coming. The cooking was done.
 
 ---
 
-# Page 14
+# Page 15
 
 And Corey sat down in the quiet café,
 Convinced that his dream had just faded away.
@@ -158,7 +166,7 @@ The roundabout pushed and the water had shoved.
 
 ---
 
-# Page 15
+# Page 16
 
 Now Corey must go, though it hurt quite a lot.
 He whispered, "Goodbye, to my favorite spot."
@@ -167,7 +175,7 @@ But WAIT! What was THAT? At the end of the day?
 
 ---
 
-# Page 16
+# Page 17
 
 He turned and he saw them—his family, his CREW!
 Running toward him and shouting, "We're HERE! We're here, too!"
@@ -176,7 +184,7 @@ She said, "Oh my darling, you're NOT nearly done!"
 
 ---
 
-# Page 17
+# Page 18
 
 "This chapter is closing, but here's the great news:
 A NEW book is starting—and YOU get to choose!"
@@ -185,7 +193,7 @@ Remi, Oona, and Zephyr, all ready to DREAM!
 
 ---
 
-# Page 18
+# Page 19
 
 "Papa," said Zephyr (the littlest one),
 "You can do ANYTHING now that you're done!
@@ -194,7 +202,7 @@ You're our dad—and our dad can do ANYTHING!"
 
 ---
 
-# Page 19
+# Page 20
 
 And Emily laughed and she pulled out a list—
 A list that was long, that went TWIST after TWIST!
@@ -203,7 +211,7 @@ So sit down and listen—from US, your family!"
 
 ---
 
-# Page 20
+# Page 21
 
 "You could be an ASTRONAUT!" Zephyr declared,
 "Flying through space in a rocket ship—THERE!
@@ -212,7 +220,7 @@ You'd open a SPACE CAFÉ way out on Mars!"
 
 ---
 
-# Page 21
+# Page 22
 
 "Or a PUNK ROCK GUITARIST!" shouted Remi with glee,
 "Up on stage with the lights and the crowd screaming 'WHEEEE!'
@@ -221,7 +229,7 @@ You'd ROCK every stage! You'd ROCK one and all!"
 
 ---
 
-# Page 22
+# Page 23
 
 "You could captain a SHIP!" shouted Oona with cheer,
 "Sailing the seas without worry or fear!
@@ -230,7 +238,7 @@ You'd sing to your sailors a song of the sea:
 
 ---
 
-# Page 23
+# Page 24
 
 "You could be a CRYPTO MOGUL!" the Super Three said,
 "Buying Bitcoins and NFTs out of your head!
@@ -239,7 +247,7 @@ Make BILLIONS one day, lose it all by day three!"
 
 ---
 
-# Page 24
+# Page 25
 
 "You could test SELF-DRIVING CARS!" Zephyr proclaimed,
 "Just ride around in them! You'd never be blamed!
@@ -248,7 +256,7 @@ You'd say, 'Wasn't ME! The car's not very smart!'"
 
 ---
 
-# Page 25
+# Page 26
 
 The list just kept going! The dreams filled the air!
 With so many futures—too many to share!
@@ -257,7 +265,7 @@ And the family kept dreaming all through the night!
 
 ---
 
-# Page 26
+# Page 27
 
 "You could PROGRAM COMPUTERS with the help of AI!
 Build weird little apps that calculate PI!
@@ -266,7 +274,7 @@ You could make websites selling spatulas at reasonable prices!"
 
 ---
 
-# Page 27
+# Page 28
 
 "You could be a LEGO ENGINEER!" Oona cried out,
 "Build a life-sized STATUE OF LIBERTY, no doubt!
@@ -275,7 +283,7 @@ And when people ask why, you'd say, 'LEGOS! That's why!'"
 
 ---
 
-# Page 28
+# Page 29
 
 "You could be an ACTOR on screens and TV!
 You could star on 'The Bear'—you'd be great, don't you see?
@@ -284,7 +292,7 @@ If you practiced real hard, you'd be the next Danny Kaye-ry!"
 
 ---
 
-# Page 29
+# Page 30
 
 "You could go into POLITICS and run for an office!
 You could partner with AOC—she'd be your accomplice!
@@ -293,7 +301,7 @@ You'd be all the rage—you'd drive voters all crazies!"
 
 ---
 
-# Page 30
+# Page 31
 
 Corey paused for a moment, then said with a grin:
 "Or maybe a LIBRARIAN! I could fit in!
@@ -304,7 +312,7 @@ So Corey said quickly, "Oh... maybe NOT, then."
 
 ---
 
-# Page 31
+# Page 32
 
 "You could drive a BIG TRUCK, but always REVERSE!
 You'd confuse everyone—but things could be worse!"
@@ -313,7 +321,7 @@ Afflict the comfortable! Get 'em convicted!"
 
 ---
 
-# Page 32
+# Page 33
 
 "You could be a LAWYER to help those in need!
 Save chefs from bad leases and nonprofit greed!
@@ -322,7 +330,7 @@ And put ESQUIRE after your name—fancy, of course!"
 
 ---
 
-# Page 33
+# Page 34
 
 "You could start a PODCAST! Everyone's got one!
 Interview your CAT about what cats have done!"
@@ -331,7 +339,7 @@ Get sponsorships for spatulas! Make those brands pay!"
 
 ---
 
-# Page 34
+# Page 35
 
 "Or be a PRO GAMER in esports so grand!
 The best Fortnite player in all of the land!"
@@ -340,7 +348,7 @@ Or be a PROMPT ENGINEER—tell AI what to say!"
 
 ---
 
-# Page 35
+# Page 36
 
 "Or a PROFESSIONAL MATTRESS TESTER!" Remi said with a yawn,
 "You'd sleep for a living from dusk until dawn!"
@@ -349,7 +357,7 @@ With MORE wild careers than you'd EVER have seen!
 
 ---
 
-# Page 36
+# Page 37
 
 "Uma Thurman's HAMSTER GUARD!" cried Zephyr with glee,
 "A Maine LOBSTER FISHERMAN sailing the sea!"
@@ -358,7 +366,7 @@ With MORE wild careers than you'd EVER have seen!
 
 ---
 
-# Page 37
+# Page 38
 
 "You could test WATER SLIDES—wheeeee!—all day long!"
 "Or TAG SHOWS FOR NETFLIX! Just say what's wrong!"
@@ -367,7 +375,7 @@ Wait in lines for rich people—stand there ALL day!"
 
 ---
 
-# Page 38
+# Page 39
 
 "You could dive for GOLF BALLS at the bottom of ponds!"
 "Or teach YOGA TO DOGS—downward dog, we're so fond!"
@@ -376,7 +384,7 @@ Serving tacos and burritos at every location!"
 
 ---
 
-# Page 39
+# Page 40
 
 "Your FACE could be famous on stock photos worldwide!
 On PowerPoints and websites—you'd beam far and wide!"
@@ -385,26 +393,26 @@ On PowerPoints and websites—you'd beam far and wide!"
 
 ---
 
-# Page 40
+# Page 41
 
 "You could yodel on mountains! Teach pigeons to WALTZ!
 You could open a shop selling nothing but SALTS!"
 "You could be an INVENTOR!" the Super Three cried,
 "Build a hat that tells JOKES! Skates TEN FEET wide!"
-
----
-
-# Page 41
-
-Corey's head was now SPINNING with all he had heard!
-So many careers! It was almost absurd!
-From astronaut, rocker, and sea captain too,
-To crypto and TikTok and Lego and... GOO?
 
 ---
 
 # Page 42
 
+Corey's head was now SPINNING with all he had heard!
+So many careers! It was almost absurd!
+From astronaut, rocker, and sea captain too,
+To crypto and TikTok and Lego and... GOO?
+
+---
+
+# Page 43
+
 "You could yodel on mountains! Teach pigeons to WALTZ!
 You could open a shop selling nothing but SALTS!"
 "You could be an INVENTOR!" the Super Three cried,
@@ -412,7 +420,7 @@ You could open a shop selling nothing but SALTS!"
 
 ---
 
-# Page 43
+# Page 44
 
 Corey's head was now SPINNING with all he had heard!
 So many careers! It was almost absurd!
@@ -421,7 +429,7 @@ To crypto and TikTok and Lego and... GOO?
 
 ---
 
-# Page 44
+# Page 45
 
 (Okay, maybe not goo. That was Zephyr's idea.
 But you get the whole point—the future was CLEAR!)
@@ -430,7 +438,7 @@ At Emily's smile. At the Super Three too.
 
 ---
 
-# Page 45
+# Page 46
 
 At the three little faces so hopeful and bright...
 And something inside him switched ON like a light!
@@ -439,7 +447,7 @@ His frown became grin! And his good became GREAT!
 
 ---
 
-# Page 46
+# Page 47
 
 "You're RIGHT!" Corey shouted. "This ISN'T the end!
 It's just a new corner! A twist! And a BEND!
@@ -448,7 +456,7 @@ The future's unwritten! The future is MINE!"
 
 ---
 
-# Page 47
+# Page 48
 
 For Corey had something no setback could break:
 A family who loved him for EVERYONE'S sake.
@@ -457,7 +465,7 @@ But especially NOW, when he'd fallen behind.
 
 ---
 
-# Page 48
+# Page 49
 
 So out of Five Corners the family did walk—
 All five of them laughing and having a talk.
@@ -466,7 +474,7 @@ But the family was TOGETHER—that's all that they said.
 
 ---
 
-# Page 49
+# Page 50
 
 The Store stood behind them, still lovely and old,
 With three years of memories, worth more than gold.
@@ -475,7 +483,7 @@ The place where their story began—not yet.
 
 ---
 
-# Page 50
+# Page 51
 
 And YOU, reading this, if YOUR store ever closes,
 If life throws you lemons (or worse—wilted roses),
@@ -484,7 +492,7 @@ If bad water comes and your dreams start to drown...
 
 ---
 
-# Page 51
+# Page 52 - Back Cover
 
 And to you whom adversity has dealt a mortal blow,
 With debt, E.coli and unhelpful boards messing with you everywhere you go,

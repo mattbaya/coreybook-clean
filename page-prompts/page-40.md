@@ -22,15 +22,39 @@
 - **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"You could yodel on mountains! Teach pigeons to WALTZ!
-You could open a shop selling nothing but SALTS!"
+"Your FACE could be famous on stock photos worldwide!
+On PowerPoints and websites—you'd beam far and wide!"
 
-"You could be an INVENTOR!" the Super Three cried,
-"Build a hat that tells JOKES! Skates TEN FEET wide!"
+"Or write FORTUNE COOKIES! Tiny wisdom galore!"
+
+"Or design MINI GOLF COURSES—who could ask more?"
 
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -43,15 +67,15 @@ You could open a shop selling nothing but SALTS!"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing THREE PANELS of creative career opportunities:
+Create a modern 2D cartoon illustration with cel-shading showing THREE PANELS of unexpectedly real and specialized jobs:
 **IMPORTANT**: DO NOT include any text labels like "PANEL 1", "PANEL 2", etc. in the actual image. These labels are for organization only.
-**PANEL 1 - STOCK PHOTO MODEL**: COREY (bald!) appears in multiple poses on FLOATING POWERPOINT SLIDES around him - pointing at graphs looking impressed, shaking hands, giving thumbs up, and laughing at salad (classic stock photo poses). Each slide should have watermarks. In the background, show a corporate meeting where people are actually using presentations featuring his images. He should be EVERYWHERE, representing the ubiquity of stock photos.
-**PANEL 2 - FORTUNE COOKIE WRITER**: COREY at a tiny desk surrounded by MOUNTAINS of fortune paper slips. Show his latest creation: "A SPATULA IN TIME SAVES NINE." Include weird ones scattered around: "BEWARE THE TUESDAY PENGUIN" and "YOUR LUCKY NUMBER IS CHEESE." A fortune cookie factory should be visible churning in the background, mass-producing his wisdom.
-**PANEL 3 - MINI GOLF DESIGNER**: COREY standing proudly in an ELABORATE mini golf course with ABSURD obstacles: windmill, loop-de-loop, erupting volcano, whale mouth, castle with moat. Show frustrated golfers attempting impossible shots. Include signage reading "COREY'S EXTREMELY DIFFICULT MINI GOLF" and his designer business card.
-Each panel should capture a different type of creative work - visual modeling, written wisdom, and experiential design. The progression should show increasingly complex creative challenges.
+**PANEL 1 - FOOD STYLIST**: COREY (bald!) using tweezers to carefully place a single sesame seed on an impossibly PERFECT BURGER. Professional camera equipment surrounds the set with directors watching monitors. Show his arsenal of tools: tweezers, spray bottles, tiny brushes. In the background, display a "before" burger looking sad and normal for comparison. The production should look high-end and meticulous.
+**PANEL 2 - PROFESSIONAL APOLOGIZER**: COREY in a formal business suit, bowing apologetically while handing over an "OFFICIAL APOLOGY" document with a wax seal. Show signs reading "I'M SORRY" and "MY BAD," and a line of clients waiting for his apology services. The scene should capture this as a legitimate business helping people who need to apologize but can't do it themselves.
+**PANEL 3 - CHICKEN SEXER**: COREY on a farm surrounded by dozens of adorable BABY CHICKS, using a magnifying glass to examine them carefully. Show him sorting chicks into labeled bins marked "HENS" and "ROOSTERS." Display a diploma reading "CERTIFIED CHICKEN GENDER SPECIALIST" to emphasize this is a real, skilled profession in agriculture.
+Each panel should highlight how these unusual but genuine careers require specific skills and expertise. The tone should be respectful of these real professions while maintaining Seussian whimsy.
 
 
- with bright, varied color palettes - corporate blues and whites for stock photos, warm wisdom yellows for fortune cookies, and playful mini golf carnival colors. Each panel should emphasize the creative and slightly absurd nature of these real but unusual careers.
+ with distinct palettes - food styling studio whites and professional lighting, apologizer office grays and formal blues, and farm yellows with cute chick pastels. Emphasize the professionalism and specialization of each unusual career.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 

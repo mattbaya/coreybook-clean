@@ -22,16 +22,36 @@
 - **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-Corey paused for a moment, then said with a grin:
-"Or maybe a LIBRARIAN! I could fit in!
-An 'Open Scholarship and Research Data Services
-Outreach Librarian'—how hard could THAT be?"
-
-But Emily GLARED. "Stay in your LANE!"
-So Corey said quickly, "Oh... maybe NOT, then."
+"You could go into POLITICS and run for an office!
+You could partner with AOC—she'd be your accomplice!
+Debate on a stage! Make speeches! Kiss babies!
+You'd be all the rage—you'd drive voters all crazies!"
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -44,17 +64,19 @@ So Corey said quickly, "Oh... maybe NOT, then."
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading as a TWO-PART PAGE with a dramatic contrast:
-**TOP HALF - THE FANTASY**: COREY (bald!) imagining himself as a peaceful librarian in a beautiful library setting. He wears reading glasses and a cozy cardigan, holding a book titled "VERY COMPLICATED RESEARCH DATA." Towering bookshelves surround him, there's a "SHHH!" sign visible, and his desk nameplate shows the absurdly long title "Open Scholarship and Research Data Services Outreach Librarian." He looks content and intellectual.
-**BOTTOM HALF - RECORD SCRATCH REALITY**: The fantasy POPS like a soap bubble! EMILY (short silver/gray pixie hair) is GLARING with arms crossed and one eyebrow raised. Her speech bubble reads "STAY IN YOUR LANE!" Corey (completely bald) looks sheepish with his hands up defensively, saying "Maybe not..." The transition should feel like a sudden reality check.
-THE SUPER THREE (blue Super3 t-shirts) are visible in the corner, giggling at this family interaction:
-- REMI (dark brown straight hair) trying not to laugh
-- OONA (long honey blonde hair) with hand over mouth
-- ZEPHYR (light brown messy hair) openly giggling
-The key joke is that Emily IS an actual librarian in real life, so Corey suggesting HER profession is particularly presumptuous. The contrast between the peaceful fantasy and Emily's sharp reality check should be dramatic and funny.
+Create a modern 2D cartoon illustration with cel-shading showing Corey's political fantasy sequence.
+The main focus is POLITICIAN COREY (completely bald!) at a campaign rally podium with "COREY 2028" banners, American flags, and confetti falling. He wears an ill-fitting suit (clearly more comfortable in an apron than formal wear) but looks enthusiastic.
+Key political elements to include:
+- Campaign buttons scattered around reading "COREY FOR SOMETHING!" and "FREE SCONES FOR ALL!"
+- A campaign bus in the background with his face prominently displayed
+- Signs reading "CHEFS FOR CHANGE!" and "YES WE CAN (COOK)!"
+- A platform/podium sign listing his agenda: "1. Better Soup 2. More Nachos 3. Free Coffee"
+The classic political moment: COREY KISSING A BABY. The baby should look confused but happy about this political ritual.
+THE SUPER THREE (blue Super3 t-shirts) should be visible in the crowd, enthusiastically waving tiny American flags and cheering for "Candidate Dad."
+The overall atmosphere should capture political campaign energy but with Corey's food-focused, wholesome approach to politics. Everything should feel slightly absurd but heartwarming - like a chef who accidentally ended up in politics but is trying his best.
 
 
- with the top half in soft, scholarly colors (warm browns, gentle yellows) and the bottom half with bold, dramatic colors emphasizing Emily's authoritative shutdown. The bubble-pop transition should be visually clear and comedic with sharp shadow edges.
+ with bold red, white, and blue patriotic colors, clean campaign banners, and exaggerated political rally atmosphere. Confetti and flags should have dynamic movement and energy with bold outlines.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 

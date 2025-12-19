@@ -1,45 +1,37 @@
-# Page 47 - BACK COVER
+# Page 52 - The Chef at the Store
 
-## BACK COVER CONTENT
-
-### BOOK DESCRIPTION
-"Follow chef Corey Wentworth's heartwarming journey from triumph to setback to transformation in this modern tale of family, resilience, and infinite possibility. When The Store at Five Corners (reference: cartoon-characters/store-cartoon.jpg) faces closure, Corey's world seems to crumble—until his family arrives with an extraordinary gift: the vision to see that every ending is just a doorway to something new.
-
-Featuring real reviews and quotes from the beloved Williamstown, Massachusetts landmark, this story celebrates the power of family love and the endless possibilities that open when we have people who believe in us."
-
-### REVIEW QUOTES
-**What readers are saying:**
-
-*"A beautiful story about finding hope when everything seems lost. The family's love jumps off every page!"*
-
-*"Captures the real heart of a small New England town and the people who make it special."*
-
-*"My kids love the rhyming text, and I love the message about new beginnings."*
-
-### SERIES INFORMATION
-**The Complete Story in Five Acts:**
-- The Chef Who Dreamed
-- The Family Who Believed  
-- Dreams of Adventure
-- Dreams of Everything
-- The New Beginning
-
-## CHARACTER DESCRIPTIONS
-
-### THE STORE AT FIVE CORNERS (PEACEFUL)
-- **View**: Distant, peaceful view from the five-road intersection
-- **Time**: Evening with soft lighting
-- **Atmosphere**: Serene, at rest, ready for its next chapter
-- **Details**: Warm lights in windows, American flag, mountain backdrop
-
-### BACKGROUND ELEMENTS
-- **Setting**: Berkshire Mountains silhouetted against evening sky
-- **Roads**: Five roads stretching into the distance toward different horizons
-- **Mood**: Contemplative, hopeful, complete
+## PAGE TEXT
+And to you whom adversity has dealt a mortal blow,
+With debt, E.coli and unhelpful boards messing with you everywhere you go,
+Turn to and put out all your strength of arm and heart and brain,
+And just like Chef Corey (and his baked goods), Rise Again!
 
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -51,36 +43,42 @@ Featuring real reviews and quotes from the beloved Williamstown, Massachusetts l
 
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
+Create a modern 2D cartoon illustration with cel-shading showing TRIUMPHANT RISE - the ultimate message of resilience and hope.
 
-Create a modern 2D cartoon illustration with cel-shading for the back cover showing a peaceful evening view.
+**COREY AS INSPIRATION (center):**
+- COREY (completely bald) in heroic pose with arms raised victoriously
+- Standing on higher ground, risen above the challenges
+- Navy blue apron flowing like a cape
+- Expression of determination and triumph
+- Golden light radiating from him
 
-**Main Image:**
-Show The Store at Five Corners (reference: cartoon-characters/store-cartoon.jpg) from a distance, nestled peacefully at the five-way intersection. The historic building (cream siding, green shutters) glows softly with warm light in the windows. An American flag waves gently on the flagpole.
+**THE FAMILY AS SUPPORT:**
+- EMILY and the three children surrounding Corey
+- All in supportive, encouraging poses
+- Reaching up toward the light with Corey
+- Showing that rising again happens with family/community
 
-**Setting:**
-Evening time with the Berkshire mountains silhouetted against a star-filled sky. The five roads stretch away in gentle curves into the distance, each leading toward different colored horizons suggesting infinite possibilities.
+**SYMBOLS OF RISING:**
+- Phoenix-like imagery around Corey
+- Bread and baked goods floating upward like ascending spirits
+- Broken chains or obstacles being overcome
+- Dawn light breaking over mountains
+- Text "RISE AGAIN!" prominently displayed in golden letters
 
-**Atmosphere:**
-Peaceful and contemplative. The Store looks content and at rest—not abandoned, but ready for whatever comes next. Small details like a few cars parked nearby or soft light from the sunroom suggest ongoing life and possibility.
+**DEFEATED CHALLENGES (below):**
+- Debt papers scattered and blowing away
+- E.coli warnings being washed away
+- Unhelpful board meeting tables cracking apart
+- These should be small and defeated-looking
 
-**Text Placement Areas:**
-Leave clean space at the top for book description text and in the middle/lower areas for review quotes and series information.
-
-**Visual Elements:**
-- Soft evening colors (purples, deep blues, warm yellows from windows)
-- Stars beginning to appear in the darkening sky
-- Gentle suggestion that this is an ending that's also a beginning
-- Maybe small silhouette of the family visible in one of the lit windows
-
-**Overall Mood:**
-Serene completion. The story has come full circle, but the sense of infinite possibility remains. This is a place where dreams continue, where every ending opens a new door.
-
-
-
-
+**OVERALL MESSAGE:**
+- Triumph over adversity
+- The power of persistence and family support
+- Hope for anyone facing their own "mortal blow"
+- Visual inspiration for readers to rise again
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading, emphasizing the peaceful, contemplative mood with soft evening lighting and a sense of stories continuing beyond the page.
+**Art Style**: Modern 2D cartoon style with cel-shading featuring bold outlines, flat colors with cel-shading, clean prominent dark outlines, and sharp shadow edges without gradients.

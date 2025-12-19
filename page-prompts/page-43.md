@@ -22,13 +22,37 @@
 - **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-Corey's head was now SPINNING with all he had heard!
-So many careers! It was almost absurd!
-From astronaut, rocker, and sea captain too,
-To crypto and TikTok and Lego and... GOO?
+"You could yodel on mountains! Teach pigeons to WALTZ!
+You could open a shop selling nothing but SALTS!"
+
+"You could be an INVENTOR!" the Super Three cried,
+"Build a hat that tells JOKES! Skates TEN FEET wide!"
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -41,19 +65,38 @@ To crypto and TikTok and Lego and... GOO?
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing a warm PAUSE after the career chaos - a return to what really matters.
-**MAIN FOCUS**: COREY (bald!) looking at his family with new eyes, tears of JOY forming as he has an emotional realization. He should be turning away from all the career possibilities to focus completely on his family.
-**THE FAMILY UNIT**: All five together in a warm, loving composition:
-- **EMILY** (short silver/gray pixie hair) with the light catching her hair, showing a knowing smile, her hand gently placed on Corey (completely bald)'s arm
-- **Remi with dark brown straight hair, blue Super3 shirt) standing with arms crossed confidently
-- **OONA** (long honey blonde hair, blue Super3 shirt) glowing and bouncing with natural joy
-- **ZEPHYR** (light brown messy hair, blue Super3 shirt) looking up at her dad with pure adoration, still clutching her "GOO" drawing
-**ATMOSPHERE**: The background should fade the career chaos into soft, warm golden light. This is a 100% FAMILY PORTRAIT moment - the focus entirely on love, support, and connection. The lighting should be golden hour warm, emphasizing that this family is Corey's true foundation.
-**ZEPHYR'S DRAWING**: Still visible in her hand, labeled "GOO" - a sweet callback to her innocent suggestion while showing she's part of this loving support system.
-The overall mood should be emotional clarity - after all the wild possibilities, the real treasure is right here with his family.
+Create a modern 2D cartoon illustration with cel-shading showing CAREER OVERLOAD in a spectacular tornado of possibilities.
+**CENTER**: COREY (bald!) sits in the middle with his head SPINNING - include cartoon spin lines around his head! He should look overwhelmed but amazed rather than distressed, like someone who just realized how many possibilities exist in the world.
+**SURROUNDING WHIRLWIND**: Create a tornado/hurricane of ALL the career images from the entire series swirling around him:
+- Astronaut helmet
+- Punk rock guitar (with subtle "Big Dog" sign)
+- Captain's hat
+- Bitcoin symbols
+- Self-driving car
+- LEGO bricks
+- Movie clapperboard
+- Political campaign buttons
+- Library books (crossed out with Emily's face glaring)
+- Truck driving in reverse
+- Notepad (journalist)
+- Legal briefcase
+- Podcast microphone
+- Game controller
+- Mattress
+- Water slide with splash
+- Golf balls
+- Dog in yoga pose
+- Hot dogs
+- Sourdough starter jar
+- Hot sauce bottle
+- Fortune cookies
+- Mini golf windmill
+- And MORE!
+**FAMILY OBSERVERS**: THE SUPER THREE and EMILY watching this wonderful chaos. ZEPHYR should be in the corner holding her drawing labeled "GOO???" still looking hopeful. Emily and the twins should be shaking their heads lovingly at Zephyr's suggestion.
+The mood should be joyful overwhelm - like discovering the world is full of infinite amazing possibilities.
 
 
- with warm, golden lighting and soft focus around the edges. The family should be rendered in warm, loving colors that emphasize connection and support. This is the emotional center of the entire series.
+ with a rainbow tornado of colors, all the career symbols swirling in organized chaos around central Corey. The spin lines around his head should be dramatic and the overall feeling should be wonder at life's possibilities.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 

@@ -22,14 +22,37 @@
 - **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"Or be a PRO GAMER in esports so grand!
-The best Fortnite player in all of the land!"
+"You could start a PODCAST! Everyone's got one!
+Interview your CAT about what cats have done!"
 
-"You could fly DELIVERY DRONES across the whole sky!
-Or be a PROMPT ENGINEER—tell AI what to say!"
+"Or be a TIKTOK STAR doing dances all day!
+Get sponsorships for spatulas! Make those brands pay!"
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -42,15 +65,14 @@ Or be a PROMPT ENGINEER—tell AI what to say!"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing multiple tech career fantasies:
-**TOP PANEL - PRO GAMER**: COREY (bald!) at an ESPORTS CHAMPIONSHIP wearing a gaming headset and team jersey reading "CHEF_DADDY_420." Giant screens show intense game action, energy drinks are scattered everywhere, and a "WORLD CHAMPION" trophy awaits. THE SUPER THREE (blue Super3 t-shirts) are in the audience holding "GO DAD!" signs and cheering enthusiastically.
-**BOTTOM - SPLIT PANEL**: 
-**Left - DRONE PILOT**: COREY at a control station wearing aviator goggles on his bald head, piloting a fleet of delivery drones across the sky. One drone should be accidentally dropping a package into a swimming pool as a humorous mishap.
-**Right - PROMPT ENGINEER**: COREY at a sleek computer setup typing commands, with an AI robot generating wonderfully weird outputs like cats riding unicorns and poetry about cheese. Include the title "PROFESSIONAL ROBOT WHISPERER" to emphasize this emerging tech career.
-All three scenarios should show Corey mastering different aspects of modern technology - competitive gaming, drone operation, and AI direction. The mood should be exciting and forward-looking, showing how technology creates new career possibilities.
+Create a modern 2D cartoon illustration with cel-shading showing TWO PANELS of modern media careers:
+**TOP PANEL - PODCASTER**: COREY (bald!) in a professional recording studio wearing big headphones, sitting across from an ACTUAL CAT at matching microphones. The cat should look completely bored and unimpressed (as cats always do). Show the podcast title "CONVERSATIONS WITH WHISKERS" and a download counter reading "10 MILLION LISTENERS." Include visible sound waves emanating from the mics to show they're recording.
+**BOTTOM PANEL - TIKTOK STAR**: COREY attempting a silly viral dance with a phone propped up to record him. He should look confused by the dance moves but fully committed to the performance. Surround him with flying SPATULAS and cooking equipment representing his sponsorship deals. Include floating hearts and likes, plus a "VIRAL!" stamp indicator. The scene should capture the absurdity of social media fame.
+Both panels should show Corey embracing modern digital media with his characteristic enthusiasm, even when the concepts are slightly outside his comfort zone (especially trying to interview an uninterested cat and learning viral dances).
+The contrast between serious podcast production and silly TikTok content should be humorous, showing the range of modern content creation opportunities.
 
 
- with bright, high-tech color schemes - gaming arena blues and neons, sky blues for drone operation, and futuristic metallics for the AI setup. Include lots of technological details with bold outlines and flat colors.
+ with bold, dynamic lines. Top panel in professional podcast blues/grays, bottom panel in bright TikTok-style neon colors with lots of movement and digital effects like hearts and likes floating around.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 

@@ -22,14 +22,38 @@
 - **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-Corey's head was now SPINNING with all he had heard!
-So many careers! It was almost absurd!
-From astronaut, rocker, and sea captain too,
-To crypto and TikTok and Lego and... GOO?
+"You could yodel on mountains! Teach pigeons to WALTZ!
+You could open a shop selling nothing but SALTS!"
+
+"You could be an INVENTOR!" the Super Three cried,
+"Build a hat that tells JOKES! Skates TEN FEET wide!"
 
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -42,19 +66,15 @@ To crypto and TikTok and Lego and... GOO?
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing a CHAOTIC PAGE of absurd career possibilities:
-**TOP LEFT - YODELING**: COREY (bald!) on a Swiss Alpine peak wearing lederhosen, mouth WIDE open yodeling "YODEL-AY-HEE-HOO!" The sound should echo off the mountain peaks. A St. Bernard dog watches with interest.
-**TOP RIGHT - PIGEON DANCE INSTRUCTOR**: COREY in a tuxedo conducting PIGEONS wearing tiny top hats as they perform a ballroom waltz. Include a sign reading "COREY-O-GRAPHY PIGEON DANCE STUDIO." On the wall, show a poster of Bert from Sesame Street with a plaque below it reading "OUR FOUNDER" as tribute to the famous pigeon-loving character.
-**MIDDLE - SALT SHOP OWNER**: COREY surrounded by shelves absolutely PACKED with different salts - Himalayan, black lava, smoked, truffle, etc. Show amazed customers discovering salt varieties. Store sign: "COREY'S 1,000 SALTS."
-**BOTTOM - MAD INVENTOR**: COREY in lab coat and goggles with wild inventions:
-- "SINGING WAFFLE MACHINE" with waffles that have mouths singing "La la!"
-- "JOKE HAT" with speech bubble: "Why did the chicken..."
-- ROLLER SKATES that are TEN FEET LONG, stretching off the page
-THE SUPER THREE (blue Super3 t-shirts) should be visible enthusiastically suggesting the inventor career, pointing excitedly at the creative possibilities.
-The page should feel wonderfully chaotic with careers getting increasingly absurd and inventive. Each section should have its own distinct style while maintaining the overall Seussian energy.
+Create a modern 2D cartoon illustration with cel-shading showing THREE PANELS of creative career opportunities:
+**IMPORTANT**: DO NOT include any text labels like "PANEL 1", "PANEL 2", etc. in the actual image. These labels are for organization only.
+**PANEL 1 - STOCK PHOTO MODEL**: COREY (bald!) appears in multiple poses on FLOATING POWERPOINT SLIDES around him - pointing at graphs looking impressed, shaking hands, giving thumbs up, and laughing at salad (classic stock photo poses). Each slide should have watermarks. In the background, show a corporate meeting where people are actually using presentations featuring his images. He should be EVERYWHERE, representing the ubiquity of stock photos.
+**PANEL 2 - FORTUNE COOKIE WRITER**: COREY at a tiny desk surrounded by MOUNTAINS of fortune paper slips. Show his latest creation: "A SPATULA IN TIME SAVES NINE." Include weird ones scattered around: "BEWARE THE TUESDAY PENGUIN" and "YOUR LUCKY NUMBER IS CHEESE." A fortune cookie factory should be visible churning in the background, mass-producing his wisdom.
+**PANEL 3 - MINI GOLF DESIGNER**: COREY standing proudly in an ELABORATE mini golf course with ABSURD obstacles: windmill, loop-de-loop, erupting volcano, whale mouth, castle with moat. Show frustrated golfers attempting impossible shots. Include signage reading "COREY'S EXTREMELY DIFFICULT MINI GOLF" and his designer business card.
+Each panel should capture a different type of creative work - visual modeling, written wisdom, and experiential design. The progression should show increasingly complex creative challenges.
 
 
- with a riot of colors - Alpine blues and whites, elegant ballroom purples, earthy salt browns, and mad scientist laboratory greens and bubbling effects. The overall feeling should be joyful creative chaos.
+ with bright, varied color palettes - corporate blues and whites for stock photos, warm wisdom yellows for fortune cookies, and playful mini golf carnival colors. Each panel should emphasize the creative and slightly absurd nature of these real but unusual careers.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 

@@ -22,13 +22,36 @@
 - **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"You could go into POLITICS and run for an office!
-You could partner with AOC—she'd be your accomplice!
-Debate on a stage! Make speeches! Kiss babies!
-You'd be all the rage—you'd drive voters all crazies!"
+"You could be an ACTOR on screens and TV!
+You could star on 'The Bear'—you'd be great, don't you see?
+Or be an IRON CHEF! Or a VAMPIRE so scary!
+If you practiced real hard, you'd be the next Danny Kaye-ry!"
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -41,19 +64,17 @@ You'd be all the rage—you'd drive voters all crazies!"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing Corey's political fantasy sequence.
-The main focus is POLITICIAN COREY (completely bald!) at a campaign rally podium with "COREY 2028" banners, American flags, and confetti falling. He wears an ill-fitting suit (clearly more comfortable in an apron than formal wear) but looks enthusiastic.
-Key political elements to include:
-- Campaign buttons scattered around reading "COREY FOR SOMETHING!" and "FREE SCONES FOR ALL!"
-- A campaign bus in the background with his face prominently displayed
-- Signs reading "CHEFS FOR CHANGE!" and "YES WE CAN (COOK)!"
-- A platform/podium sign listing his agenda: "1. Better Soup 2. More Nachos 3. Free Coffee"
-The classic political moment: COREY KISSING A BABY. The baby should look confused but happy about this political ritual.
-THE SUPER THREE (blue Super3 t-shirts) should be visible in the crowd, enthusiastically waving tiny American flags and cheering for "Candidate Dad."
-The overall atmosphere should capture political campaign energy but with Corey's food-focused, wholesome approach to politics. Everything should feel slightly absurd but heartwarming - like a chef who accidentally ended up in politics but is trying his best.
+Create a modern 2D cartoon illustration with cel-shading showing Corey's acting fantasy in FOUR PANELS:
+**IMPORTANT**: DO NOT include any text labels like "PANEL 1", "PANEL 2", etc. in the actual image. These labels are for organization only.
+**PANEL 1 - "THE BEAR"**: COREY (bald!) in intense kitchen scene wearing chef whites, shouting "YES CHEF!" with dramatic concentration. Include a clapperboard showing "THE BEAR" and the high-stress restaurant atmosphere.
+**PANEL 2 - IRON CHEF**: COREY in the Iron Chef stadium with dramatic lighting and flames shooting from his cooking station. He's holding a weird ingredient (MARSHMALLOWS) and looking determined in the competition setting.
+**PANEL 3 - VAMPIRE**: COREY in an awkward vampire costume with cape and fangs, fake blood on his chin, but looking more goofy than scary. A frustrated director off to the side is shouting "MORE SCARY!" while Corey tries harder to look menacing but fails adorably.
+**PANEL 4 - DANNY KAYE**: COREY in old Hollywood musical style, tap dancing with a top hat, surrounded by stars and spotlights in classic theatrical fashion. He should look joyful and theatrical.
+In the background of all panels, show THE SUPER THREE (blue Super3 t-shirts) holding "FOR YOUR CONSIDERATION" signs and cheering their dad on.
+Each panel should capture a different acting genre while maintaining Corey's warm personality. The vampire scene should be particularly funny since he's clearly not cut out to be scary.
 
 
- with bold red, white, and blue patriotic colors, clean campaign banners, and exaggerated political rally atmosphere. Confetti and flags should have dynamic movement and energy with bold outlines.
+ with exaggerated expressions, bold panel borders, and bright stage lighting effects. Each panel should have its own color palette - kitchen whites/reds, stadium blues/oranges, gothic purples/blacks, and theatrical golds/reds.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 

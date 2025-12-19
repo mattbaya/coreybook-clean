@@ -27,15 +27,34 @@
 typed another neighbor with a smile!
 'What a find!'
 The praise for Corey floated everywhere!
-His phone buzzed and ping with each new review,
+His phone buzzed and pinged with each new review,
 And cars overflowed his tiny parking lot too!
-'Great baked goods!' 'Crispy chicken sandwich!'
-'Worth the stop!' The five-star ratings just wouldn't stop!
-And Corey stood beaming in his kitchen so bright,
-Like bathed in holographic light.
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -56,32 +75,26 @@ Show Corey (completely bald, navy blue apron, huge warm smile) standing confiden
 **3D Holographic Phone Effects:**
 The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
 
-**Floating Review Quotes:**
-Include speech bubbles or floating text snippets with actual quotes from the reviews:
+**Floating Review Quotes - "What People Are Saying Online" (Page 6 UNIQUE quotes):**
+Theme: consistency, credibility, volume
+Visual style: white rectangular CARDS, no tails, mixed sizes
+Footer: Actual Online Review Quotes
 
-Main/larger quotes:
-- "Chef Corey is awesome!" 
-- "Finally someone who knows what they're doing!"
-- "Ridiculously good!"
-- "Worth the stop!"
+Large anchor quotes (3):
+- "Great vibes, fantastic food! Thank you for what you do!!"
+- "A must-stop on our annual autumnal visit."
+- "Awesome in every way! 5 stars."
 
-Additional floating quotes (smaller):
-- "Beautifully composed sandwiches!"
-- "Food obsessed in the best way!"
-- "Service with a smile!"
-- "What a find!"
-- "Best croissant I've had in my life"
-- "Great baked goods!"
-- "Crispy chicken is a must have!"
-- "One of THE BEST freshly made breakfast sandwiches"
-- "For the first time in my almost 40 years..."
-- "The place is packed!"
-- "5 stars!"
+Medium quotes (5):
+- "Great place. Great food and vibes."
+- "I come in here almost daily and it is THE best coffee and gluten-free snack place I have been to."
+- "Fantastic pizza, 100%!"
+- "Excellent sandwiches."
+- "Best sammies in town!"
 
-Include some partial reviews floating in background:
-- "Captain of this amazingly run ship..."
-- "Best latte I've had anywhere..."
-- "So happy to have The Store back..."
+Small accent quotes (2):
+- "Perfect start."
+- "Great surprise of the day!!"
 
 **Kitchen Setting:**
 Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.

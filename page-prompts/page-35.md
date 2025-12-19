@@ -22,13 +22,37 @@
 - **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"Or a PROFESSIONAL MATTRESS TESTER!" Remi said with a yawn,
-"You'd sleep for a living from dusk until dawn!"
-The ideas kept flowing like rivers of dreams...
-With MORE wild careers than you'd EVER have seen!
+"Or be a PRO GAMER in esports so grand!
+The best Fortnite player in all of the land!"
+
+"You could fly DELIVERY DRONES across the whole sky!
+Or be a PROMPT ENGINEER—tell AI what to say!"
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -41,22 +65,15 @@ With MORE wild careers than you'd EVER have seen!
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing the climax of Book 3's career brainstorming.
-**MAIN IMAGE**: MATTRESS TESTER COREY (bald!) in comfortable pajamas, sound asleep on a luxurious mattress with "ZZZ"s floating peacefully above him. Scientists in white lab coats surround the bed taking notes on clipboards marked "COMFY: ✓✓✓✓✓." A sign reads "DO NOT DISTURB - TESTING IN PROGRESS." This should clearly be the "best job ever" - getting paid to sleep!
-**Remi with dark brown straight hair, blue Super3 t-shirt) should be visible making the suggestion with a yawn, clearly inspired by his own sleepiness.
-**AROUND THE EDGES**: Create a swirling preview of MORE careers to come in Book 4! Include visual hints of:
-- Water slides with splash effects
-- Golf balls scattered about
-- Hot dogs and food items
-- Dogs in yoga poses
-- Fortune cookies
-- Mini golf windmills and obstacles
-- Other whimsical career elements
-**THE FAMILY** (Emily with short silver hair, Oona and Zephyr in Super3 shirts) should be visible watching, still bubbling with even more ideas, showing the brainstorming is nowhere near over.
-Include "TO BE CONTINUED..." text to build excitement for Book 4's even wilder career suggestions.
+Create a modern 2D cartoon illustration with cel-shading showing multiple tech career fantasies:
+**TOP PANEL - PRO GAMER**: COREY (bald!) at an ESPORTS CHAMPIONSHIP wearing a gaming headset and team jersey reading "CHEF_DADDY_420." Giant screens show intense game action, energy drinks are scattered everywhere, and a "WORLD CHAMPION" trophy awaits. THE SUPER THREE (blue Super3 t-shirts) are in the audience holding "GO DAD!" signs and cheering enthusiastically.
+**BOTTOM - SPLIT PANEL**: 
+**Left - DRONE PILOT**: COREY at a control station wearing aviator goggles on his bald head, piloting a fleet of delivery drones across the sky. One drone should be accidentally dropping a package into a swimming pool as a humorous mishap.
+**Right - PROMPT ENGINEER**: COREY at a sleek computer setup typing commands, with an AI robot generating wonderfully weird outputs like cats riding unicorns and poetry about cheese. Include the title "PROFESSIONAL ROBOT WHISPERER" to emphasize this emerging tech career.
+All three scenarios should show Corey mastering different aspects of modern technology - competitive gaming, drone operation, and AI direction. The mood should be exciting and forward-looking, showing how technology creates new career possibilities.
 
 
- with dreamy, peaceful colors for the mattress testing scene (soft blues, comfortable whites) while the swirling career previews use bright, exciting colors that hint at the chaos to come in Book 4. The overall mood should be "sweet dreams... but MORE ADVENTURES AHEAD!"
+ with bright, high-tech color schemes - gaming arena blues and neons, sky blues for drone operation, and futuristic metallics for the AI setup. Include lots of technological details with bold outlines and flat colors.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 

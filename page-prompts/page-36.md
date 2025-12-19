@@ -22,13 +22,36 @@
 - **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"Uma Thurman's HAMSTER GUARD!" cried Zephyr with glee,
-"A Maine LOBSTER FISHERMAN sailing the sea!"
-"PRE-K CHILDCARE!" "GUITAR TUTOR too!"
-"GWAR'S BLOOD CANNON GUY!" The ideas just grew!
+"Or a PROFESSIONAL MATTRESS TESTER!" Remi said with a yawn,
+"You'd sleep for a living from dusk until dawn!"
+The ideas kept flowing like rivers of dreams...
+With MORE wild careers than you'd EVER have seen!
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -41,26 +64,22 @@
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing 5 distinct career fantasy bubbles around the family.
-**BUBBLE 1 - UMA THURMAN'S HAMSTER GUARD**:
-Show Corey (bald!) in a black Secret Service suit with sunglasses and earpiece, standing protectively next to Uma Thurman (elegant actress) who's gently holding a tiny hamster. Include a "HAMSTER SECURITY" badge and maybe a tiny metal detector for the hamster to walk through. Hollywood red carpet background.
-**BUBBLE 2 - MAINE LOBSTER FISHERMAN**:
-Corey in yellow rain gear hauling up lobster traps from the ocean. Show the lobster boat named "COREY CHAOS" with "VERONA ISLAND, ME" painted on the stern. One feisty lobster is clawing at Corey's nose while he pulls up the trap! Show the rocky Verona Island, Maine coastline, seagulls overhead, and other caught lobsters with prominent claws in the boat. Ocean spray and authentic Maine fishing atmosphere with Corey's surprised/pained expression from the nose-clawing lobster.
-**BUBBLE 3 - PRE-K CHILDCARE TEACHER**:
-Corey in a colorful apron reading to a circle of adorable 4-year-olds. Show a bright, cheerful daycare classroom with toys, alphabet blocks, and finger paints. Name tag reads "MR. COREY." Children should look engaged and happy.
-**BUBBLE 4 - GUITAR TUTOR**:
-Corey (bald!) teaching guitar to Matt in a music room. Corey is holding his ears in pain while Matt (much thinner than cartoon-characters/matt.jpg reference) enthusiastically sings "I'm a Vegetarian Now!" while playing guitar badly. Show a wall calendar filled with lesson dates for various instruments: "TUBA - MON", "BAGPIPES - WED", "DIDGERIDOO - FRI". Include various instruments around the room (tuba, bagpipes, didgeridoo visible). Matt should look happy and oblivious while Corey suffers.
-**BUBBLE 5 - GWAR SPECIAL EFFECTS ENGINEER**:
-Corey wearing safety goggles and black metal t-shirt, pouring a massive vat of fake blood into a theatrical cannon on a concert stage. GWAR band members in grotesque sci-fi monster costumes playing brutal music in background. Theatrical, over-the-top metal concert atmosphere with fake blood effects (cartoonish, not realistic).
-**THE FAMILY** should be in the center:
-- **Remi with dark brown straight hair, Super3 shirt) pointing excitedly at GWAR scene
-- **Oona** (honey blonde hair, Super3 shirt) fascinated by lobster fishing  
-- **Zephyr** (light brown hair, Super3 shirt) with BIGGEST SMILE at hamster guard
-- **Emily** (short silver hair) looking amused but slightly overwhelmed
-Reference cartoon-characters/store-cartoon.jpg for accurate building design.
+Create a modern 2D cartoon illustration with cel-shading showing the climax of Book 3's career brainstorming.
+**MAIN IMAGE**: MATTRESS TESTER COREY (bald!) in comfortable pajamas, sound asleep on a luxurious mattress with "ZZZ"s floating peacefully above him. Scientists in white lab coats surround the bed taking notes on clipboards marked "COMFY: ✓✓✓✓✓." A sign reads "DO NOT DISTURB - TESTING IN PROGRESS." This should clearly be the "best job ever" - getting paid to sleep!
+**Remi with dark brown straight hair, blue Super3 t-shirt) should be visible making the suggestion with a yawn, clearly inspired by his own sleepiness.
+**AROUND THE EDGES**: Create a swirling preview of MORE careers to come in Book 4! Include visual hints of:
+- Water slides with splash effects
+- Golf balls scattered about
+- Hot dogs and food items
+- Dogs in yoga poses
+- Fortune cookies
+- Mini golf windmills and obstacles
+- Other whimsical career elements
+**THE FAMILY** (Emily with short silver hair, Oona and Zephyr in Super3 shirts) should be visible watching, still bubbling with even more ideas, showing the brainstorming is nowhere near over.
+Include "TO BE CONTINUED..." text to build excitement for Book 4's even wilder career suggestions.
 
 
- with each fantasy bubble having its own color scheme - Hollywood glam, Maine ocean blues, cheerful daycare colors, music room warm tones (with Corey's pain), and dark metal concert atmosphere. The family should be the stable center while the career bubbles swirl around them with increasing creativity and absurdity.
+ with dreamy, peaceful colors for the mattress testing scene (soft blues, comfortable whites) while the swirling career previews use bright, exciting colors that hint at the chaos to come in Book 4. The overall mood should be "sweet dreams... but MORE ADVENTURES AHEAD!"
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 

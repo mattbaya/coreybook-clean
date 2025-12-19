@@ -22,13 +22,37 @@
 - **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"You could be a LAWYER to help those in need!
-Save chefs from bad leases and nonprofit greed!
-Start a class action against mega-corps,
-And put ESQUIRE after your name—fancy, of course!"
+"You could drive a BIG TRUCK, but always REVERSE!
+You'd confuse everyone—but things could be worse!"
+
+"Or be a JOURNALIST! Comfort the afflicted!
+Afflict the comfortable! Get 'em convicted!"
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -41,19 +65,13 @@ And put ESQUIRE after your name—fancy, of course!"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing Corey's lawyer fantasy in a dramatic courtroom setting.
-The main focus is LAWYER COREY (bald!) in a sharp suit, pointing dramatically at the defendant's table where EVIL CORPORATE EXECUTIVES cower. These villains should look cartoonish with money bag heads and suits made of dollar bills, representing mega-corporation greed.
-Behind Corey: a line of GRATEFUL CLIENTS - chefs in aprons and small business owners looking relieved and thankful for his legal representation.
-Key courtroom elements:
-- Judge's nameplate reading "JUSTICE"
-- Legal books on Corey's table: "FIGHTING THE POWER" and "LEASES FOR DUMMIES"
-- A prominent business card: "COREY WENTWORTH, ESQ." in fancy script lettering
-- A scoreboard showing "LITTLE GUYS: 47 / MEGA CORPS: 0"
-The best detail: OONA (long honey blonde hair, blue Super3 t-shirt) wearing a tiny judge's wig and robes, seriously banging an oversized gavel from the judge's bench, fully committed to her role in this fantasy.
-The scene should capture the David vs. Goliath energy of a small-town lawyer taking on corporate power and winning. Corey looks confident and principled, fighting for justice with the backing of the community.
+Create a modern 2D cartoon illustration with cel-shading showing TWO FANTASY SCENES:
+**TOP SCENE - REVERSE TRUCK DRIVER**: COREY (bald!) driving an enormous 18-wheeler COMPLETELY IN REVERSE down a highway. He's looking over his shoulder, totally calm and focused. Other drivers are BAFFLED and TERRIFIED - show cars swerving, drivers with jaws dropped, and a traffic cop scratching his head in complete confusion. The truck should have a bumper sticker reading "CAUTION: ALWAYS IN REVERSE." REMI (dark brown straight hair, blue Super3 t-shirt) sits in the passenger seat giving a confident thumbs up.
+**BOTTOM SCENE - INVESTIGATIVE JOURNALIST**: COREY as a hard-hitting reporter wearing a "PRESS" badge in his hat, holding a notepad and pen. He's asking tough questions to a sweaty politician who is nervously loosening his collar. Headlines should swirl around them reading "COREY BREAKS BIG STORY!" and "TRUTH TO POWER!" The scene should capture that classic investigative journalism energy of holding the powerful accountable.
+Both scenes should emphasize Corey's competence in these unusual roles - he's genuinely good at reverse driving (somehow) and serious about investigative journalism. The humor comes from the absurdity of the reverse driving situation and the contrast between chef-turned-journalist.
 
 
- with dramatic courtroom lighting, bold contrast between the good guys (warm colors) and corporate villains (cold money-greens), and exaggerated expressions emphasizing the moral victory theme.
+ with bold, dynamic lines emphasizing movement in the truck scene and dramatic tension in the journalism scene. Use contrasting color palettes - highway blues/grays for the truck scene and newspaper blacks/whites/reds for the journalism scene.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 

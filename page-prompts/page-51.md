@@ -1,14 +1,37 @@
 # Page 51 - The Chef at the Store
 
 ## PAGE TEXT
-And to you whom adversity has dealt a mortal blow,
-With debt, E.coli and unhelpful boards messing with you everywhere you go,
-Turn to and put out all your strength of arm and heart and brain,
-And just like Chef Corey (and his baked goods), Rise Again!
+And YOU, reading this, if YOUR store ever closes,
+If life throws you lemons (or worse—wilted roses),
+If roundabouts ruin your road into town,
+If bad water comes and your dreams start to drown...
 
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -20,39 +43,33 @@ And just like Chef Corey (and his baked goods), Rise Again!
 
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
-Create a modern 2D cartoon illustration with cel-shading showing TRIUMPHANT RISE - the ultimate message of resilience and hope.
+Create a modern 2D cartoon illustration with cel-shading BREAKING THE FOURTH WALL - directly addressing the reader with empathy and understanding.
 
-**COREY AS INSPIRATION (center):**
-- COREY (completely bald) in heroic pose with arms raised victoriously
-- Standing on higher ground, risen above the challenges
-- Navy blue apron flowing like a cape
-- Expression of determination and triumph
-- Golden light radiating from him
+**THE FAMILY (addressing reader):**
+- All looking directly at the reader with compassionate expressions
+- COREY (completely bald) with understanding, empathetic eyes
+- EMILY with warm, supportive smile
+- Children showing genuine care for the reader
+- Reaching out toward the viewer as if to comfort
 
-**THE FAMILY AS SUPPORT:**
-- EMILY and the three children surrounding Corey
-- All in supportive, encouraging poses
-- Reaching up toward the light with Corey
-- Showing that rising again happens with family/community
+**SYMBOLIC ELEMENTS:**
+- Storm clouds in background representing adversity
+- Wilted roses scattered on the ground
+- A cracked or broken road (roundabout damage)
+- Muddy water puddles (E.coli reference)
+- These challenges surround the family but don't overwhelm them
 
-**SYMBOLS OF RISING:**
-- Phoenix-like imagery around Corey
-- Bread and baked goods floating upward like ascending spirits
-- Broken chains or obstacles being overcome
-- Dawn light breaking over mountains
-- Text "RISE AGAIN!" prominently displayed in golden letters
+**MESSAGE OF UNDERSTANDING:**
+- The family has been through these struggles too
+- They're not preaching from privilege, but from experience
+- Visual elements that show they understand real hardship
+- Lemons scattered around that haven't been made into lemonade yet
 
-**DEFEATED CHALLENGES (below):**
-- Debt papers scattered and blowing away
-- E.coli warnings being washed away
-- Unhelpful board meeting tables cracking apart
-- These should be small and defeated-looking
-
-**OVERALL MESSAGE:**
-- Triumph over adversity
-- The power of persistence and family support
-- Hope for anyone facing their own "mortal blow"
-- Visual inspiration for readers to rise again
+**BREAKING THE FOURTH WALL:**
+- Characters making direct eye contact with reader
+- Gestures of invitation and support
+- "We see you, we've been there" energy
+- Bridge between story world and reader's reality
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 

@@ -3,10 +3,10 @@
 This project was developed with assistance from Claude AI (Anthropic). This file contains important development context and automation instructions for future Claude sessions.
 
 ## Project Overview
-**"The Chef at the Store"** - A 53-page illustrated children's book about chef Corey Wentworth who loses his restaurant but discovers infinite career possibilities with family support.
+**"The Chef at the Store"** - A 54-page illustrated children's book about chef Corey Wentworth who loses his restaurant but discovers infinite career possibilities with family support.
 
 ## Key Characters (with Cartoon References)
-- **Corey**: Completely bald chef, reference `cartoon-characters/corey1.jpg`
+- **Corey**: Late-middle-aged (40s-50s) bald chef with realistic proportions, defined jawline, smaller tired eyes, reference `cartoon-characters/corey1.jpg`
 - **Emily**: Short silver pixie hair, librarian, reference `cartoon-characters/emily.jpg` 
 - **Remi**: 11-year-old with dark brown straight hair, reference `cartoon-characters/remi.jpg`
 - **Oona**: 11-year-old with long honey blonde hair, reference `cartoon-characters/Oona.jpg`
@@ -18,8 +18,9 @@ This project was developed with assistance from Claude AI (Anthropic). This file
 - **Super3 Logo**: Red diamond shield with yellow "3" and corner letters Z, O, R (reference: `images/super3v3.png`)
 - **Art Style**: Modern 2D cartoon with Phil Foglio influences and cel-shading
 - **Store Architecture**: Historic cream building with 4 two-story white columns
-- **Page Count**: 53 pages (page-00-cover.md through page-52.md)
-- **Page Structure**: Cover (0) + Content (1-51) + Back Cover (52)
+- **Page Count**: 54 pages (page-00-cover.md through page-53.md)
+- **Page Structure**: Cover (0) + Content (1-52) + Back Cover (53)
+- **Review Sequence**: Pages 5-7 form a cohesive review trilogy with unique quotes
 - **Image Format**: All images should be square (1:1 aspect ratio)
 - **Character Ethnicity**: All family members (Corey, Emily, Remi, Oona, Zephyr) are Caucasian white with same skin tone
 
@@ -31,8 +32,14 @@ This project was developed with assistance from Claude AI (Anthropic). This file
 - **Character Consistency**: All prompts reference cartoon character images
 
 ## Recent Updates
-- **Page Consolidation**: Reduced from 56 to 53 pages with proper story ending
+- **Page Structure**: Expanded from 53 to 54 pages with new review sequence
 - **Text Synchronization**: Fixed misaligned page text (pages 39-41)
+- **Review Sequence Enhancement**: Added new page 7 "The Greatest Hits" with unique quotes  
+- **Character Consistency Update**: Enhanced Corey character description across all 54 pages:
+  - Late-middle-aged appearance (40s-50s) with realistic proportions
+  - Smaller, tired eyes (not large/cute)
+  - Defined jawline with subtle age lines
+  - Clear constraints against mascot/chibi styling
 - **File Organization**: 
   - Renamed page-47-back-cover.md → page-52.md
   - Created master files: all_page_prompts.md and all_page_text.md
@@ -71,7 +78,7 @@ python code/fix_non_square_images.py
 ```
 
 ## File Structure
-- `page-prompts/` - 53 individual page prompts (page-00 through page-52)
+- `page-prompts/` - 54 individual page prompts (page-00 through page-53)
 - `character-profiles/` - Detailed character descriptions
 - `cartoon-characters/leonardo/` - Generated illustrations
 - `cartoon-characters/` - Visual reference images

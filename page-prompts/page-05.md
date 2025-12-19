@@ -24,14 +24,34 @@
 ## PAGE TEXT
 Corey checked his phone with growing delight—
 The reviews were coming in day and night!
-Food's FINALLY discovered the review sites awoke,
-'Ridiculously Good!' they wrote.
-'5 stars! Thumbs Up!'
-'Clearly someone who knows what they're doing!'
-wrote another woman or man.
+A place that feels good, that's what they found,
+The warmest reviews spreading around!
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -52,32 +72,23 @@ Show Corey (completely bald, navy blue apron, huge warm smile) standing confiden
 **3D Holographic Phone Effects:**
 The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
 
-**Floating Review Quotes:**
-Include speech bubbles or floating text snippets with actual quotes from the reviews:
+**Floating Review Quotes - "A Place That Feels Good" (Page 5 UNIQUE quotes):**
+Theme: community, warmth, belonging
+Visual style: fewer, larger WHITE BOXES; calm spacing; NO STARS
 
-Main/larger quotes:
-- "Chef Corey is awesome!" 
-- "Finally someone who knows what they're doing!"
-- "Ridiculously good!"
-- "Worth the stop!"
+Large anchor quotes (3):
+- "This place puts me in a good mood."
+- "Williamstown haven! My favorite spot in town!"
+- "Cheers to the next 200 years! Lovely spot with so much history!"
 
-Additional floating quotes (smaller):
-- "Beautifully composed sandwiches!"
-- "Food obsessed in the best way!"
-- "Service with a smile!"
-- "What a find!"
-- "Best croissant I've had in my life"
-- "Great baked goods!"
-- "Crispy chicken is a must have!"
-- "One of THE BEST freshly made breakfast sandwiches"
-- "For the first time in my almost 40 years..."
-- "The place is packed!"
-- "5 stars!"
+Medium quotes (4):
+- "So warm and cozy – great space!"
+- "Great atmosphere. Very welcoming."
+- "Wonderful place to stop at the end of a great weekend in the Berkshires."
+- "Lovely spot to visit!"
 
-Include some partial reviews floating in background:
-- "Captain of this amazingly run ship..."
-- "Best latte I've had anywhere..."
-- "So happy to have The Store back..."
+Small accent quote (1):
+- "Love this café! Very warm owner! Great feel."
 
 **Kitchen Setting:**
 Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.

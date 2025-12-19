@@ -22,13 +22,36 @@
 - **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"You could be a LEGO ENGINEER!" Oona cried out,
-"Build a life-sized STATUE OF LIBERTY, no doubt!
-Or a LEGO SEQUOIA—three hundred feet high!
-And when people ask why, you'd say, 'LEGOS! That's why!'"
+"You could PROGRAM COMPUTERS with the help of AI!
+Build weird little apps that calculate PI!
+Or maybe calculate PIE—'How many slices?'
+You could make websites selling spatulas at reasonable prices!"
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -41,20 +64,18 @@ And when people ask why, you'd say, 'LEGOS! That's why!'"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing Oona's LEGO engineer fantasy sequence.
-The main focus is LEGO ENGINEER COREY (completely bald!) wearing a hard hat and safety vest, standing proudly before MASSIVE LEGO STRUCTURES:
-1. **Life-sized STATUE OF LIBERTY**: Built entirely from green LEGO bricks, with tourists taking photographs and a helicopter flying nearby for scale comparison. The statue should maintain its iconic pose but have that unmistakable blocky LEGO texture.
-2. **300-FOOT LEGO SEQUOIA TREE**: A towering tree made of brown and green LEGO bricks stretching high into the clouds, with birds actually nesting in the LEGO branches.
-On the ground around the structures:
-- Scattered LEGO pieces that HURT to step on (show someone hopping on one foot yelling "OW!")
-- Corey holding blueprints labeled "NEXT: LEGO GRAND CANYON?"
-- A crowd of amazed people asking "WHY?" 
-- Corey grinning widely and responding "BECAUSE LEGOS!"
-In one corner, show OONA (long honey blonde hair, blue Super3 t-shirt) pointing excitedly at her suggested fantasy, clearly proud of this ambitious idea.
-The scale should be massive and impressive, with Corey looking small but proud next to his creations. Include classic LEGO details like the studs on top of bricks and that satisfying blocky aesthetic.
+Create a modern 2D cartoon illustration with cel-shading showing Corey's AI programmer fantasy sequence.
+The main focus is TECH DEVELOPER COREY (completely bald!) in a modern hoodie, sitting at a futuristic workstation with a glowing keyboard. He's surrounded by floating holographic code and AI robot assistants that look friendly and whimsical (not threatening).
+The screens around him show:
+- "PI or PIE?" app displaying both a mathematical pi symbol AND a delicious-looking pie
+- "COREY'S USED SPATULAS - Only $3.00!" website
+- A video game that looks like Minecraft but with ROUNDER blocks and DUCKS swimming around
+AI robots float nearby with speech bubbles. One should be saying "HAVE YOU TRIED TURNING IT OFF AND ON?" in a helpful but slightly confused way.
+In the background corner, show ZEPHYR (light brown messy hair, blue Super3 t-shirt) playing the duck game on a tablet, giving an enthusiastic thumbs up.
+The workspace should feel high-tech but whimsical, with floating code, multiple glowing screens, and that classic Seussian sense of organized chaos. The mood is excited innovation - Corey discovering the joy of creating with technology.
 
 
- with bold outlines and bright primary colors that emphasize the LEGO aesthetic - lots of reds, blues, greens, and yellows in that blocky, satisfying LEGO style.
+ with bold outlines, clean prominent dark lines, and bold colors dominated by tech blues and glowing screen yellows/greens.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 

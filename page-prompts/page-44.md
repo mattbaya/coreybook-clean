@@ -22,13 +22,36 @@
 - **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-(Okay, maybe not goo. That was Zephyr's idea.
-But you get the whole point—the future was CLEAR!)
-He looked at his family—his team and his crew.
-At Emily's smile. At the Super Three too.
+Corey's head was now SPINNING with all he had heard!
+So many careers! It was almost absurd!
+From astronaut, rocker, and sea captain too,
+To crypto and TikTok and Lego and... GOO?
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -41,28 +64,19 @@ At Emily's smile. At the Super Three too.
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing JOYFUL CHAOS - the tackle-hug moment.
-**CENTRAL ACTION**: Bald man Corey with arms spread wide in triumphant pose, huge grin, wearing navy apron, being simultaneously tackle-hugged by all three kids:
-- **REMI**: Brown-haired boy grabbing from the left side
-- **OONA**: Blonde girl jumping from the right side  
-- **ZEPHYR**: Smallest brown-haired girl climbing up the front
-- All three kids wearing blue shirts with red diamond Super3 logo
-**CAREER SYMBOLS FLOATING**: Around the tackle-hug scene, show floating career symbols representing possibilities:
-- Astronaut helmet floating nearby
-- Guitar with musical notes
-- Captain's hat 
-- Judge's gavel
-- LEGO bricks scattered around
-- Other career symbols from the series
-**ENERGY AND MOTION**: 
-- Motion lines showing the impact of the tackle-hug
-- Joyful chaos with maximum energy
-- All four people (Corey + 3 kids) in dynamic, overlapping poses
-- Bright, warm colors emphasizing celebration
-**OVERALL MOOD**: Pure joy, family connection, celebration of transformation, maximum energy and movement.
+Create a modern 2D cartoon illustration with cel-shading showing a warm PAUSE after the career chaos - a return to what really matters.
+**MAIN FOCUS**: COREY (bald!) looking at his family with new eyes, tears of JOY forming as he has an emotional realization. He should be turning away from all the career possibilities to focus completely on his family.
+**THE FAMILY UNIT**: All five together in a warm, loving composition:
+- **EMILY** (short silver/gray pixie hair) with the light catching her hair, showing a knowing smile, her hand gently placed on Corey (completely bald)'s arm
+- **Remi with dark brown straight hair, blue Super3 shirt) standing with arms crossed confidently
+- **OONA** (long honey blonde hair, blue Super3 shirt) glowing and bouncing with natural joy
+- **ZEPHYR** (light brown messy hair, blue Super3 shirt) looking up at her dad with pure adoration, still clutching her "GOO" drawing
+**ATMOSPHERE**: The background should fade the career chaos into soft, warm golden light. This is a 100% FAMILY PORTRAIT moment - the focus entirely on love, support, and connection. The lighting should be golden hour warm, emphasizing that this family is Corey's true foundation.
+**ZEPHYR'S DRAWING**: Still visible in her hand, labeled "GOO" - a sweet callback to her innocent suggestion while showing she's part of this loving support system.
+The overall mood should be emotional clarity - after all the wild possibilities, the real treasure is right here with his family.
 
 
- with the brightest, most hopeful colors of the entire series. The career possibilities should swirl like stars and planets, and the lighting should suggest the dawn of a new chapter. Maximum joy and possibility.
+ with warm, golden lighting and soft focus around the edges. The family should be rendered in warm, loving colors that emphasize connection and support. This is the emotional center of the entire series.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 

@@ -22,17 +22,40 @@
 - **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"You could PROGRAM COMPUTERS with the help of AI!
-Build weird little apps that calculate PI!
-Or maybe calculate PIE—'How many slices?'
-You could make websites selling spatulas at reasonable prices!"
+The list just kept going! The dreams filled the air!
+With so many futures—too many to share!
+But Corey was smiling, his heart felt so light...
+And the family kept dreaming all through the night!
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
-- OONA: 11-year-old CAUCASIAN WHITE girl, long honey blonde hair, blue Super3 shirt
+- OONA: 11-year-old CAUCASIAN WHITE girl, long honey blonde hair, blue Super3 shirt  
 - ZEPHYR: 9-year-old CAUCASIAN WHITE girl, light brown shoulder-length hair, blue Super3 shirt
 - SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
 - STORE: Cream building with 4 white columns (reference: cartoon-characters/store-cartoon.jpg)
@@ -41,21 +64,55 @@ You could make websites selling spatulas at reasonable prices!"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing Corey's AI programmer fantasy sequence.
-The main focus is TECH DEVELOPER COREY (completely bald!) in a modern hoodie, sitting at a futuristic workstation with a glowing keyboard. He's surrounded by floating holographic code and AI robot assistants that look friendly and whimsical (not threatening).
-The screens around him show:
-- "PI or PIE?" app displaying both a mathematical pi symbol AND a delicious-looking pie
-- "COREY'S USED SPATULAS - Only $3.00!" website
-- A video game that looks like Minecraft but with ROUNDER blocks and DUCKS swimming around
-AI robots float nearby with speech bubbles. One should be saying "HAVE YOU TRIED TURNING IT OFF AND ON?" in a helpful but slightly confused way.
-In the background corner, show ZEPHYR (light brown messy hair, blue Super3 t-shirt) playing the duck game on a tablet, giving an enthusiastic thumbs up.
-The workspace should feel high-tech but whimsical, with floating code, multiple glowing screens, and that classic Seussian sense of organized chaos. The mood is excited innovation - Corey discovering the joy of creating with technology.
+Create a modern 2D cartoon illustration with cel-shading showing Corey in his kitchen during the peak success period, holding up his smartphone with pure joy and pride.
+
+**Corey's Position & Expression:**
+Show Corey (completely bald, navy blue apron, huge warm smile) standing confidently in his kitchen, holding his phone at eye level with both hands. His expression should show genuine delight and pride as he reads the reviews. His eyes should be sparkling with happiness, and his posture should be confident and proud.
+
+**3D Holographic Phone Effects:**
+The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
+
+**Floating Review Quotes:**
+Include speech bubbles or floating text snippets with actual quotes from the reviews:
+
+Main/larger quotes:
+- "Chef Corey is awesome!" 
+- "Finally someone who knows what they're doing!"
+- "Ridiculously good!"
+- "Worth the stop!"
+
+Additional floating quotes (smaller):
+- "Beautifully composed sandwiches!"
+- "Food obsessed in the best way!"
+- "Service with a smile!"
+- "What a find!"
+- "Best croissant I've had in my life"
+- "Great baked goods!"
+- "Crispy chicken is a must have!"
+- "One of THE BEST freshly made breakfast sandwiches"
+- "For the first time in my almost 40 years..."
+- "The place is packed!"
+- "5 stars!"
+
+Include some partial reviews floating in background:
+- "Captain of this amazingly run ship..."
+- "Best latte I've had anywhere..."
+- "So happy to have The Store back..."
+
+**Kitchen Setting:**
+Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.
+
+**Color Palette & Effects:**
+Use warm, glowing colors - golden yellows, bright blues for the phone screen, sparkly effects around the holographic elements. The 3D thumbs up should be bright green or blue with a glossy, dimensional appearance. Stars should be golden and twinkling.
+
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
 
- with bold outlines, clean prominent dark lines, and bold colors dominated by tech blues and glowing screen yellows/greens.
+
+
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading featuring bold outlines, flat colors with cel-shading, clean prominent dark outlines, and sharp shadow edges without gradients.
+**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading, and special attention to the glowing, dimensional effects of the phone's holographic display. The scene should radiate success, validation, and joy - this is Corey at his peak, feeling appreciated for his hard work.

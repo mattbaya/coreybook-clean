@@ -28,16 +28,16 @@ This story celebrates the power of family love, the magic of imagination, and th
 
 ## 📄 Book Structure
 
-**53 Total Pages (0-52):**
+**54 Total Pages (0-53):**
 - Cover page (page-00-cover.md)
-- Story pages 1-51
-- Back cover (page-52.md)
+- Story pages 1-52
+- Back cover (page-53.md)
 
 **Key Story Sections:**
-- The store closure and Corey's despair
+- The store closure and Corey's despair  
+- Three-page review sequence (pages 5-7): "A Place That Feels Good" → "What People Are Saying Online" → "The Greatest Hits"
 - Family rescue and support
-- Career brainstorming sessions with wild fantasies
-- Real customer reviews and community love
+- Career brainstorming sessions with wild fantasies  
 - New beginnings and infinite possibilities
 
 ## 🤖 Image Generation
@@ -83,7 +83,7 @@ The story features dozens of imaginative career possibilities including:
 
 ```
 CoreyBook/
-├── page-prompts/           # 53 individual page descriptions
+├── page-prompts/           # 54 individual page descriptions
 ├── character-profiles/     # Detailed character references  
 ├── cartoon-characters/     # Visual reference images
 ├── images/                 # Photos and logos

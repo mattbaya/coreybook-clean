@@ -10,10 +10,12 @@
 - **Medium build, fit physique** (not skinny, not heavy - healthy chef build)
 
 ### Facial Features
-- **BIG GENUINE SMILE** - his defining characteristic, warm and infectious
-- **Kind, expressive eyes** that show his emotions clearly
-- **Approachable, friendly demeanor** - the kind of person people naturally trust
-- **Age appearance**: 30s-40s adult
+- **CALM, WARM SMILE** (not exaggerated) - his defining characteristic, genuine and reassuring
+- **Smaller, slightly tired eyes** (NOT large or cute) that show life experience
+- **Longer face with defined jawline** - realistic adult facial structure
+- **Subtle age lines** around eyes and mouth showing character
+- **High forehead** with clean-shaven appearance
+- **Age appearance**: Late-middle-aged (late 40s to 50s)
 
 ## CLOTHING & COSTUMES
 
@@ -54,11 +56,11 @@ Transforms into various outfits for career fantasies:
 
 ### Visual Characteristics
 - **Bald head should be prominent** in all illustrations
-- **Exaggerate his warm smile** when happy
-- **Show emotion clearly** through facial expressions
-- **Medium proportions** - not too tall or short in Seussian style
-- **When sad**: Slumped shoulders, head hanging
-- **When happy**: Upright posture, arms spread wide, beaming smile
+- **Realistic proportions** - adult head-to-body ratio (no chibi, no mascot proportions)
+- **Visible neck** - proportional and realistic
+- **Show emotion clearly** through facial expressions but keep mature
+- **When sad**: Slumped shoulders, head hanging, tired expression
+- **When happy**: Upright posture, calm warm smile (not exaggerated)
 
 ### Color Palette
 - **Apron**: Navy blue (his signature color)
@@ -79,9 +81,11 @@ Transforms into various outfits for career fantasies:
 
 ### Never Forget
 - ❌ Don't give him hair (even in fantasy sequences - use wigs/hats instead)
-- ❌ Don't make him too thin or too heavy
-- ❌ Don't lose his warm, friendly demeanor
-- ❌ Don't make him look angry or mean (even when sad, he's gentle)
+- ❌ Don't make him look young or cute
+- ❌ Don't enlarge his eyes or make them childlike
+- ❌ Don't use chibi or mascot proportions
+- ❌ Don't smooth out his age lines or make him look too polished
+- ❌ Don't exaggerate his smile beyond calm and warm
 
 ## CARTOON CHARACTER REFERENCE IMAGES
 
@@ -97,15 +101,31 @@ Transforms into various outfits for career fantasies:
 - **cartoon-characters/wentworth-family-foglio.jpg** - Corey with complete family showing proportions and family dynamics
 
 ### Key Visual Elements from References
-- **Completely bald head** with clean dome shape and prominent ears
-- **Phil Foglio-style large expressive eyes** that convey deep emotion
+- **Completely bald head** with high forehead and clean-shaven face
+- **Smaller, slightly tired eyes** (NOT large or cute) showing life experience  
+- **Longer face with defined jawline** and subtle age lines
 - **Navy blue apron** over white shirt as standard work attire  
-- **Warm, genuine smile** that transforms his entire face
-- **Medium build** - capable and hardworking, not intimidating
-- **Clean-shaven face** - no facial hair to keep expressions clear and visible
+- **Calm, warm smile** (not exaggerated) - genuine and reassuring
+- **Realistic adult proportions** - visible neck, proper head-to-body ratio
+- **Late-middle-aged appearance** (40s-50s) with mature facial structure
 
 ### Using in AI Prompts
-Always reference: "Use character design from cartoon-characters/corey1.jpg - completely bald head, large expressive eyes, navy blue apron, Phil Foglio cartoon style"
+Always reference: "Use character design from cartoon-characters/corey1.jpg - completely bald head with high forehead, smaller tired eyes (NOT large/cute), longer face with defined jawline, subtle age lines, realistic adult proportions, navy blue apron, Phil Foglio cartoon style"
+
+**MANDATORY CHARACTER CONSTRAINTS:**
+- Late-middle-aged (40s-50s) with realistic facial structure
+- Smaller, slightly tired eyes (NOT large or cute)
+- Defined jawline with subtle age lines
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+**DO NOT:**
+- Do not make Corey look young
+- Do not enlarge eyes or make them cute
+- Do not smooth facial features
+- Do not shorten torso or use chibi proportions
+- Do not stylize toward "cute" or "friendly mascot"
 
 ## STORY ROLE
 Corey represents the everyman who faces setbacks but discovers that with family support, every ending can be a new beginning. His baldness makes him instantly recognizable, while his warm smile shows his genuine heart. He's the chef who learns that the most important ingredient in any recipe for success is love and family support.

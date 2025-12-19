@@ -2,45 +2,51 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### COREY (protagonist)
-- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
-- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
-- **Activity**: Holding his phone up, reading glowing reviews with delight
-- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
-- **Posture**: Standing tall in his kitchen, chest out with confidence
+### REVIEW DISPLAY SCREEN
+- **Setting**: Large tablet or computer screen displaying review compilation
+- **Layout**: Clean, organized digital interface showing multiple reviews
+- **Visual Style**: Professional review aggregation site design
+- **Background**: The Store's interior in soft focus behind the screen
+- **Lighting**: Screen glow illuminating the surrounding area
 
-### THE STORE INTERIOR (SUCCESS PHASE)
-- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
-- **Atmosphere**: Golden afternoon light streaming through windows
-- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
-- **Mood**: Peak success period, everything running smoothly
-
-### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
-- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
-- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
-- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
-- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
+### VISUAL ELEMENTS
+- **Typography**: Bold, celebratory text treatments for standout quotes
+- **Layout**: Poster-like design with fewer but larger quotes
+- **Color Scheme**: Confident, vibrant colors suggesting success
+- **Design**: Mix of review cards and highlighted text boxes
 
 ## PAGE TEXT
-The tablet glowed bright with review after review,
-Each one more delightful than the last one he knew!
-In the center, one comment made Corey's heart sing:
-"Finally someone who KNOWS what they're doing!"
+'Great baked goods!' 'Crispy chicken sandwich!'
+'Worth the stop!' The five-star ratings just wouldn't stop!
+And Corey stood beaming in his kitchen so bright,
+Like bathed in holographic light.
 
-Around it, more praises came flooding the screen,
-The nicest reviews that he'd ever seen!
-From "Captain of this ship" to "Best croissant in life"—
-He couldn't wait to share this with Emily, his wife!
-
-"The place is now PACKED!" wrote a forty-year neighbor,
-"Worth every penny!" praised those who would savor
-His crispy fried chicken, his sandwiches divine,
-His coffee, his soups—everything was just fine!
-
-*QUOTES FROM REAL REVIEWS
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -52,56 +58,43 @@ His coffee, his soups—everything was just fine!
 
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
+Create a modern 2D cartoon illustration with cel-shading showing a large tablet or screen displaying "The Greatest Hits" review compilation.
 
-Create a modern 2D cartoon illustration with cel-shading showing Corey in his kitchen during the peak success period, holding up his smartphone with pure joy and pride.
+**Main Screen Display:**
+Show a large tablet or computer screen prominently displaying a beautifully designed review compilation page titled "The Greatest Hits." The screen should have a professional, confident design with vibrant colors.
 
-**Corey's Position & Expression:**
-Show Corey (completely bald, navy blue apron, huge warm smile) standing confidently in his kitchen, holding his phone at eye level with both hands. His expression should show genuine delight and pride as he reads the reviews. His eyes should be sparkling with happiness, and his posture should be confident and proud.
+**Review Quotes - "The Greatest Hits" (Page 7 UNIQUE quotes):**
+Theme: confident, celebratory, distilled praise
+Visual style: fewer quotes, BIG type, poster-like design
 
-**3D Holographic Phone Effects:**
-The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
+Primary anchor (longest, most prominent):
+- "We always enjoy coming here for coffee, a baked treat, and a cozy atmosphere."
 
-**Floating Review Quotes:**
-Include speech bubbles or floating text snippets with actual quotes from the reviews:
+Large supporting quotes (3):
+- "Love this place. Great food in a sweet atmosphere."
+- "The turkey sandwich is delicious!"
+- "Excellent sandwiches."
 
-Main/larger quotes:
-- "Chef Corey is awesome!" 
-- "Finally someone who knows what they're doing!"
-- "Ridiculously good!"
-- "Worth the stop!"
+Medium quotes (3):
+- "Best sammies in town!"
+- "Fantastic pizza, 100%!"
+- "Awesome sandwich! Thanks."
 
-Additional floating quotes (smaller):
-- "Beautifully composed sandwiches!"
-- "Food obsessed in the best way!"
-- "Service with a smile!"
-- "What a find!"
-- "Best croissant I've had in my life"
-- "Great baked goods!"
-- "Crispy chicken is a must have!"
-- "One of THE BEST freshly made breakfast sandwiches"
-- "For the first time in my almost 40 years..."
-- "The place is packed!"
-- "5 stars!"
+**Design Elements:**
+- Bold, celebratory typography
+- Confident color scheme with vibrant accent colors
+- Professional layout resembling a "greatest hits" compilation
+- Mix of text sizes creating visual hierarchy
+- Clean, organized presentation
 
-Include some partial reviews floating in background:
-- "Captain of this amazingly run ship..."
-- "Best latte I've had anywhere..."
-- "So happy to have The Store back..."
+**Background Setting:**
+Show The Store's interior softly blurred in the background, with warm lighting from the screen illuminating the space. The tablet/screen should be the focal point, glowing prominently.
 
-**Kitchen Setting:**
-Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.
-
-**Color Palette & Effects:**
-Use warm, glowing colors - golden yellows, bright blues for the phone screen, sparkly effects around the holographic elements. The 3D thumbs up should be bright green or blue with a glossy, dimensional appearance. Stars should be golden and twinkling.
-
-Reference cartoon-characters/store-cartoon.jpg for accurate building design.
-
-
-
-
+**Color Palette:**
+Use confident, celebratory colors - deep blues, golden yellows, and vibrant greens that suggest success and quality. The screen should have a bright, inviting glow.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading, and special attention to the glowing, dimensional effects of the phone's holographic display. The scene should radiate success, validation, and joy - this is Corey at his peak, feeling appreciated for his hard work.
+**Art Style**: Modern 2D cartoon style with cel-shading featuring bold outlines, flat colors with cel-shading, clean prominent dark outlines, and sharp shadow edges without gradients.

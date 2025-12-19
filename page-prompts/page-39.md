@@ -22,16 +22,38 @@
 - **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"Your FACE could be famous on stock photos worldwide!
-On PowerPoints and websites—you'd beam far and wide!"
+"You could dive for GOLF BALLS at the bottom of ponds!"
 
-"Or write FORTUNE COOKIES! Tiny wisdom galore!"
+"Or teach YOGA TO DOGS—downward dog, we're so fond!"
 
-"Or design MINI GOLF COURSES—who could ask more?"
-
+"Or build a FOOD TRUCK EMPIRE spanning the nation!
+Serving tacos and burritos at every location!"
 ## IMAGE PROMPT
 
-**CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+**COREY CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
+
+Illustrate Corey EXACTLY matching the established reference character.
+
+Corey is a late-middle-aged adult man (late 40s to 50s), bald with a high forehead,
+clean-shaven, realistic facial structure.
+
+MANDATORY CHARACTER CONSTRAINTS:
+- Smaller, slightly tired eyes (NOT large or cute)
+- Longer face, defined jawline
+- Subtle age lines around eyes and mouth
+- Head-to-body ratio realistic (no chibi, no mascot proportions)
+- Neck visible and proportional
+- Calm, warm smile (not exaggerated)
+
+DO NOT:
+- Do not make Corey look young
+- Do not enlarge eyes
+- Do not smooth facial features
+- Do not shorten torso
+- Do not stylize toward "cute" or "friendly mascot"
+
+Style matches prior Corey reference sheets exactly.
+
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
@@ -44,15 +66,16 @@ On PowerPoints and websites—you'd beam far and wide!"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing THREE PANELS of unexpectedly real and specialized jobs:
+Create a modern 2D cartoon illustration with cel-shading showing THREE PANELS of wonderfully weird REAL jobs:
 **IMPORTANT**: DO NOT include any text labels like "PANEL 1", "PANEL 2", etc. in the actual image. These labels are for organization only.
-**PANEL 1 - FOOD STYLIST**: COREY (bald!) using tweezers to carefully place a single sesame seed on an impossibly PERFECT BURGER. Professional camera equipment surrounds the set with directors watching monitors. Show his arsenal of tools: tweezers, spray bottles, tiny brushes. In the background, display a "before" burger looking sad and normal for comparison. The production should look high-end and meticulous.
-**PANEL 2 - PROFESSIONAL APOLOGIZER**: COREY in a formal business suit, bowing apologetically while handing over an "OFFICIAL APOLOGY" document with a wax seal. Show signs reading "I'M SORRY" and "MY BAD," and a line of clients waiting for his apology services. The scene should capture this as a legitimate business helping people who need to apologize but can't do it themselves.
-**PANEL 3 - CHICKEN SEXER**: COREY on a farm surrounded by dozens of adorable BABY CHICKS, using a magnifying glass to examine them carefully. Show him sorting chicks into labeled bins marked "HENS" and "ROOSTERS." Display a diploma reading "CERTIFIED CHICKEN GENDER SPECIALIST" to emphasize this is a real, skilled profession in agriculture.
-Each panel should highlight how these unusual but genuine careers require specific skills and expertise. The tone should be respectful of these real professions while maintaining Seussian whimsy.
+**IMPORTANT**: DO NOT include any text labels like "PANEL 1", "PANEL 2", etc. in the actual image. These labels are for organization only.
+**PANEL 1 - WATER SLIDE TESTER**: COREY (bald!) ZOOMING down an enormous, colorful, impossibly twisting water slide with the biggest grin, arms raised up in pure joy. He's wearing a soaked safety vest labeled "SLIDE QUALITY CONTROL" and holding a waterlogged clipboard. Water splashes everywhere as he shouts "WHEEEEE!" The slide should be fantastically elaborate and fun-looking.
+**PANEL 2 - NETFLIX TAGGER**: COREY in pajamas on a cozy couch surrounded by snacks and multiple screens, typing content tags like "EMOTIONAL," "QUIRKY," and "WILL MAKE YOU CRY." Include a title reading "PROFESSIONAL BINGE-WATCHER." The setup should look like the ultimate dream job for TV lovers - getting paid to watch and categorize shows.
+**PANEL 3 - LINE-STANDER**: COREY in a professional business suit standing in an extremely long line, looking bored but maintaining professional composure. Include a sign reading "LINE-STANDING SERVICES - $50/HR." Show many other people in the line to emphasize how long he's been standing there.
+Each panel should capture a different kind of unusual but real job opportunity. The water slide should be pure joy, Netflix tagging should look cozy and relaxed, and line-standing should emphasize the dedication required for this surprisingly lucrative service.
 
 
- with distinct palettes - food styling studio whites and professional lighting, apologizer office grays and formal blues, and farm yellows with cute chick pastels. Emphasize the professionalism and specialization of each unusual career.
+ with bright, contrasting colors for each panel - water slide blues and splash whites, cozy Netflix oranges and browns, and business line-standing grays and blues. Each panel should have its own distinct energy and mood.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 
